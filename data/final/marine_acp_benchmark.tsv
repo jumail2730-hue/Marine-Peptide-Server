@@ -1,0 +1,5 @@
+pep_id	sequence	length	organism	group	in_training_set
+MP001801	GIKEMLCNMACAQTVCKKSGGPLCDTCQAACKALG	35	Synoicum turgens (Colonial ascidian)	Tunicata	yes
+MP002340	GPKTKAACKMACKLATCGKKPGGWKCKLCELGCDAV	36	Synoicum turgens (Colonial ascidian)	Tunicata	yes
+MP002444	GTTCYCGKTIGIYWFGKYSCPTNRGYTGSCPYFLGICCYPVD	42	Anthopleura elegantissima (Green aggregating anemone) (Actinia elegantissima)	Cnidaria	yes
+MP004680	YSFGL	5	Carcinus maenas (Common shore crab) (Green crab)	Malacostraca	yes

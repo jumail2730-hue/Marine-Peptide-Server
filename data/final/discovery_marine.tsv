@@ -1,0 +1,594 @@
+pep_id	sequence	length	label	sources	organism	group	source_ids
+MP000002	AACKCDDEGPDIRTAPLTGTVDLGSCNAGWEKCASYYTIIADCCRKKK	48	unlabeled	UniProt	Stichodactyla helianthus (Sun anemone) (Stoichactis helianthus)	Cnidaria	UniProt:P19651
+MP000021	AANKKASALIAQIADRDCCNFPACAASNPGLCT	33	unlabeled	UniProt	Conus flavidus (Yellow Pacific cone)	Mollusca	UniProt:A0A1S5TAF9
+MP000022	AANKKASALVAQIADRDCCNDPACAVNNPGLCT	33	unlabeled	UniProt	Conus frigidus (Frigid cone)	Mollusca	UniProt:A0A1S5TAF2
+MP000023	AANKKASALVAQIADRDCCNDPACTVNNPGLCT	33	unlabeled	UniProt	Conus frigidus (Frigid cone)	Mollusca	UniProt:A0A1S5TAN1
+MP000024	AANKKASALVAQIADRDCCNLPACAASNPGLCT	33	unlabeled	UniProt	Conus frigidus (Frigid cone)	Mollusca	UniProt:A0A1S5TAG4
+MP000025	AANRKASALVAQIADRDCCNDPACAVNNPGLCT	33	unlabeled	UniProt	Conus frigidus (Frigid cone)	Mollusca	UniProt:A0A1S5TAG3
+MP000026	AAPCFCPGKPDRGDLWILRGTCPGGYGYTSNCYKWPNICCYPH	43	unlabeled	UniProt	Anemonia sulcata (Mediterranean snakelocks sea anemone)	Cnidaria	UniProt:P59084
+MP000027	AAPCFCSGKPGRGDLWILRGTCPGGYGYTSNCYKWPNICCYPH	43	unlabeled	UniProt	Anemonia sulcata (Mediterranean snakelocks sea anemone)	Cnidaria	UniProt:P11494
+MP000028	AAPCSCPGKPGRGDLWIFRGTCPGGYGYTSNCYKWPNICCYPH	43	unlabeled	UniProt	Anemonia viridis (Snakelocks anemone)	Cnidaria	UniProt:P0DQN6
+MP000031	AASKKASALIAQIADRDCCNFPACAASNPGLCT	33	unlabeled	UniProt	Conus flavidus (Yellow Pacific cone)	Mollusca	UniProt:A0A1S5TAG2
+MP000032	AASKKASALIAQIADRDCCNFPACAVSNPGLCT	33	unlabeled	UniProt	Conus flavidus (Yellow Pacific cone)	Mollusca	UniProt:A0A1S5TAC0
+MP000033	AASKKASALVAQIADRDCCNDPACAVNNPGLCT	33	unlabeled	UniProt	Conus frigidus (Frigid cone)	Mollusca	UniProt:A0A1S5TAG0
+MP000034	AASRKASALIAQIADRDCCNDPACAVNNPGLCT	33	unlabeled	UniProt	Conus frigidus (Frigid cone)	Mollusca	UniProt:A0A1S5TAG7
+MP000035	AASRKASALIAQIADRDCCNFPACAASNPGLCT	33	unlabeled	UniProt	Conus flavidus (Yellow Pacific cone)	Mollusca	UniProt:A0A1S5TAB7
+MP000042	ACCVYKICYPC	11	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:C0HKY4
+MP000046	ACENNFSDRECERRKKDCDSSMKFRELSCPKTCGTC	36	unlabeled	UniProt	Telmatactis stephensoni (Sea anemone)	Cnidaria	UniProt:P0DRH8
+MP000048	ACIDRFPTGTCKHVKKGGSCKNSQKYRINCAKTCGLCH	38	unlabeled	UniProt	Bunodosoma caissarum (Sea anemone)	Cnidaria	UniProt:C0HJC2
+MP000049	ACKDGFPTATCQHAKLVGNCKNSQKYRANCAKTCGPC	37	unlabeled	UniProt	Bunodosoma caissarum (Sea anemone)	Cnidaria	UniProt:C0HJC3
+MP000050	ACKDNFAAATCKHVKENKNCGSQKYATNCAKTCGKC	36	unlabeled	UniProt	Anemonia sulcata (Mediterranean snakelocks sea anemone)	Cnidaria	UniProt:Q9TWG1
+MP000051	ACKPKNNLCAITEMAECCSGFCLIYRCS	28	unlabeled	UniProt	Conasprella delessertii (Sozon's cone) (Conus delessertii)	Mollusca	UniProt:P0C1C9
+MP000057	ACSGRGSRCPPQCCMGLRCGRGNPQKCIGAHEDV	34	unlabeled	UniProt	Conus geographus (Geography cone) (Nubecula geographus)	Mollusca	UniProt:P15472
+MP000059	ACVNRGDPCQRTVRCCSRRCGVNGC	25	unlabeled	UniProt	Conus ebraeus (Hebrew cone)	Mollusca	UniProt:R4IKR8
+MP000060	ACVNRGDPCQRTVRCCSRRCGVNSC	25	unlabeled	UniProt	Conus ebraeus (Hebrew cone)	Mollusca	UniProt:R4IKB6
+MP000076	AEDSRGTQLHRALRKATKLSESTRCKRKGSSCRRTSYDCCTGSCRNGKCG	50	unlabeled	UniProt	Conus bullatus (Bubble cone)	Mollusca	UniProt:P0CY66
+MP000077	AEDSRGTQLHRALRKTTKLSLSIRCKGPGASCIRIAYNCCKYSCRNGKCS	50	unlabeled	UniProt	Conus bullatus (Bubble cone)	Mollusca	UniProt:P0CY71
+MP000087	AFVKGSAQRVAHGY	14	unlabeled	UniProt	Conus planorbis (Planorbis cone)	Mollusca	UniProt:P0C260
+MP000100	AGGKATCCPCFMCSYTAGCPWGQCAHHCGCD	31	unlabeled	UniProt	Dofleinia armata (Armed anemone)	Cnidaria	UniProt:P0DMZ2
+MP000101	AGGKSTCCPCAMCKYTAGCPWGQCAHHCGCSE	32	unlabeled	UniProt	Entacmaea quadricolor (Bubble-tip anemone) (Parasicyonis actinostoloides)	Cnidaria	UniProt:P09949
+MP000105	AGNAKMSALMALTIRGCCSHPVCSAMSPICG	31	unlabeled	UniProt	Conus lividus (Livid cone)	Mollusca	UniProt:H9N3R7
+MP000126	AIVGRPRF	8	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DL71
+MP000140	AKTGILDSDGPTVAGNSLSGT	21	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P58305
+MP000142	ALAGTIIAGASLTFKILDEV	20	unlabeled	UniProt	Heteractis magnifica (Magnificent sea anemone) (Radianthus magnifica)	Cnidaria	UniProt:P58689
+MP000148	ALLHHGLNCAKGVLA	15	unlabeled	UniProt	Halocynthia aurantium (Sea peach)	Tunicata	UniProt:P83706
+MP000149	ALLSCKCEANSGYGDKWLFHGGCPNGYGYNERCFIKPGAVCCYPPSGR	48	unlabeled	UniProt	Condylactis gigantea (Giant Caribbean anemone) (Condylactis passiflora)	Cnidaria	UniProt:C0HM42
+MP000150	ALPCPYGCPLRCCHMTDGVCLRNKQGC	27	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI17
+MP000151	ALPCRCEGKTEYGDKWIFHGGCPNDYGYNDRCFMKPGSVCCYPKYE	46	unlabeled	UniProt	Phymanthus crucifer (Red beaded anemone)	Cnidaria	UniProt:C0HK75
+MP000200	APAKRWFGHEECTYWLGPCEVDDTCCSASCESKFCGLW	38	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:P0C1M8
+MP000202	APALVVTATTNCCGYTGPACHPCLCTQTC	29	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:P0DQY7
+MP000203	APANSVWS	8	unlabeled	UniProt	Conus gladiator (Gladiator cone)	Mollusca	UniProt:P84700
+MP000222	APWLVPSQITTCCGYNPGTMCPSCMCTNTC	30	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:P58928
+MP000229	ARCEQCPSYCCQSDSPPECDGCE	23	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI08
+MP000237	ASCKCDDDGPDVRSATFTGTVDFAYCNAGWEKCLAVYTPVASCCRKKK	48	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:P30831
+MP000238	ASCKCDDDGPDVRSATFTGTVDFWNCNEGWEKCTAVYTPVASCCRKKK	48	unlabeled	UniProt	Heteractis magnifica (Magnificent sea anemone) (Radianthus magnifica)	Cnidaria	UniProt:P01534
+MP000239	ASDGRDDEAIDERSDMYELKRNGRCCHPACAKYFSCGR	38	unlabeled	UniProt	Conus monachus (Cone snail)	Mollusca	UniProt:D4HPF7
+MP000240	ASDGRDDEAIDERSDMYELKRNGRCCHPACGKYFSCGR	38	unlabeled	UniProt	Conus monachus (Cone snail)	Mollusca	UniProt:D4HPF8
+MP000241	ASDGRDDEAKDERSDMYELKRNGRCCHPACGAKYFKCGG	39	unlabeled	UniProt	Conus monachus (Cone snail)	Mollusca	UniProt:D4HPF6
+MP000242	ASDGRDDEAKDERSDMYELKRNGRCCHPACGKYFKCGR	38	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:D4HPE4
+MP000243	ASDGRDDEAKDERSDMYESDRNGRCCHPACAERYNCGR	38	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:D4HPE5
+MP000244	ASDGRDDEAKDERSDMYESDRNGRCCHPACGRKYNCGR	38	unlabeled	UniProt	Conus gauguini (Gauguin's cone)	Mollusca	UniProt:D4HPF2
+MP000245	ASDGRNAAADDKASDLVALAVRGGCCSHPVCNLNNPQMCRGRR	43	unlabeled	UniProt	Conus circumcisus (Circumcision cone)	Mollusca	UniProt:D4HPE0
+MP000246	ASDGRNAAADDKASDLVALAVRGGCCSHPVCYFNNPQMCRGRR	43	unlabeled	UniProt	Conus circumcisus (Circumcision cone)	Mollusca	UniProt:D4HPD9
+MP000247	ASDGRNAAADDKASDLVALAVRGGCCSHPVCYVNYPQICRGRR	43	unlabeled	UniProt	Conus gauguini (Gauguin's cone)	Mollusca	UniProt:D4HPF1
+MP000248	ASDGRNAAADDKASDPIALTVRGGCCSHPVCYTKNPNCGGRR	42	unlabeled	UniProt	Conus ventricosus (Mediterranean cone)	Mollusca	UniProt:A0A4P8XV20
+MP000249	ASDGRNAAANDKASDLVALTVRRGCCSHPVCNLNNPQMCRGRR	43	unlabeled	UniProt	Conus circumcisus (Circumcision cone)	Mollusca	UniProt:D4HPD7
+MP000250	ASDGRNAAANDKASDVIPLALQGCCSNPVCHVDHPELCLRRR	42	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:D4HPE6
+MP000251	ASDGRNAAANDKASGVNGCCSNPACHVDHAELCRRRR	37	unlabeled	UniProt	Conus monachus (Cone snail)	Mollusca	UniProt:D4HPF9
+MP000252	ASDGRNAAANDVISLVLKGCCSNPVCHVEHSYMCGRRR	38	unlabeled	UniProt	Conus circumcisus (Circumcision cone)	Mollusca	UniProt:D4HPD8
+MP000253	ASDVRNAAVHERQKDLVVTATTTCCGYNPMTMCPPCMCTNTCKKSG	46	unlabeled	UniProt	Conus monachus (Cone snail)	Mollusca	UniProt:D4HPG2
+MP000256	ASGADTCCSNPACQVQHSDLC	21	unlabeled	UniProt	Conus catus (Cat cone)	Mollusca	UniProt:P0DQQ5
+MP000309	ATSGPMGWLPVFYRF	15	unlabeled	UniProt	Conus spurius (Alphabet cone)	Mollusca	UniProt:P0DM28
+MP000325	AVPDVAFNAYG	11	unlabeled	UniProt	Ruditapes philippinarum (Japanese carpet shell) (Venerupis philippinarum)	Mollusca	UniProt:P86316
+MP000338	CAAFGSFCGLPGLVDCCSGRCFIVCLL	27	unlabeled	UniProt	Conus tessulatus (Tessellate cone)	Mollusca	UniProt:P0DL66
+MP000339	CAGIGSFCGLPGLVDCCSDRCFIVCLP	27	unlabeled	UniProt	Conus suturatus (Sutured cone)	Mollusca	UniProt:P0DL67
+MP000344	CASQGQKCKTKSDCCNGMWCAGTRGHTCYKPK	32	unlabeled	UniProt	Phymanthus crucifer (Red beaded anemone)	Cnidaria	UniProt:C0HJB1
+MP000346	CCAFPQWCGAGCIVPCC	17	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P0DPJ2
+MP000347	CCAIRLCNVYLCGSCCP	17	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P0DPJ6
+MP000348	CCAPSACRLGCRPCCR	16	unlabeled	UniProt	Conus marmoreus (Marble cone)	Mollusca	UniProt:P0C424
+MP000349	CCDDSECSTSCWPCCY	16	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DPL3
+MP000350	CCDRIACRFGCVPCCT	16	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:C0HKY8
+MP000351	CCDWDWCDHICTCCGG	16	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:C0HKY6
+MP000352	CCELPCHGCVPCCWP	15	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:P58624
+MP000353	CCEWPCHHGCIPCCY	15	unlabeled	UniProt	Conus inscriptus (Engraved cone)	Mollusca	UniProt:P0DUR4
+MP000354	CCEWPCSHGCIPCCY	15	unlabeled	UniProt	Conus inscriptus (Engraved cone)	Mollusca	UniProt:P0DUR3
+MP000355	CCGIPNAACHPCVCTGKC	18	unlabeled	UniProt	Conus pergrandis (Grand cone)	Mollusca	UniProt:P0C1X0
+MP000356	CCGPTACIAGCKPCC	15	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DPL2
+MP000357	CCGPTACVAGCKPCC	15	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DPL0
+MP000358	CCGVPNAACHPCVCKNTC	18	unlabeled	UniProt	Conus obscurus (Obscure cone) (Conus halitropus)	Mollusca	UniProt:P69746
+MP000359	CCGVPNAACHPCVCTGKC	18	unlabeled	UniProt	Conus pergrandis (Grand cone)	Mollusca	UniProt:P0C1W9
+MP000360	CCGVPNAACPPCVCNKTCG	19	unlabeled	UniProt	Conus obscurus (Obscure cone) (Conus halitropus)	Mollusca	UniProt:P0C1W8
+MP000362	CCKQSCTTCMPCCW	14	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:P58623
+MP000363	CCKYGWTCLLGCSPCGC	17	unlabeled	UniProt	Conus pennaceus (Feathered cone) (Conus episcopus)	Mollusca	UniProt:P58926
+MP000364	CCMALCSRYHCLPCC	15	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P0DPJ5
+MP000365	CCNWPCSFGCIPCCY	15	unlabeled	UniProt	Conus parius (Parian snail)	Mollusca	UniProt:P0CH15
+MP000366	CCPPVIWCC	9	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DPL4
+MP000367	CCQLFVWCC	9	unlabeled	UniProt	Conus amadis (Amadis cone)	Mollusca	UniProt:P0DUU1
+MP000368	CCQWPCSHGCIPCCY	15	unlabeled	UniProt	Conus asiaticus (Cone snail)	Mollusca	UniProt:P0DOZ8
+MP000369	CCRLACGLGCHPCC	14	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:P0CI24
+MP000370	CCSALCSRYHCLPCC	15	unlabeled	UniProt	Conus archon (Magistrate cone)	Mollusca	UniProt:P0DQV5
+MP000371	CCSQDCLVCIPCCPN	15	unlabeled	UniProt	Conus quercinus (Oak cone)	Mollusca	UniProt:P58841
+MP000372	CCSQDCRVCIPCCPY	15	unlabeled	UniProt	Conus figulinus (Fig cone)	Mollusca	UniProt:P0DP10
+MP000373	CCSRHCWVCIPCCPN	15	unlabeled	UniProt	Conus quercinus (Oak cone)	Mollusca	UniProt:P58842
+MP000374	CCSTNCAVCIPCCP	14	unlabeled	UniProt	Conus figulinus (Fig cone)	Mollusca	UniProt:P0DP11
+MP000375	CCTPFYFCCNN	11	unlabeled	UniProt	Conus amadis (Amadis cone)	Mollusca	UniProt:P0DUU2
+MP000376	CDAPTHYCTNYWECCSGYCEHSHCW	25	unlabeled	UniProt	Conus princeps (Prince cone)	Mollusca	UniProt:P0DOW6
+MP000377	CEDGGVPSASCRANTEDYRYCNACYLQEVIGK	32	unlabeled	UniProt	Gemmula speciosa (Splendid gem-turris) (Pleurotoma speciosa)	Mollusca	UniProt:D5KXG6
+MP000383	CFIRNCPP	8	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P86255
+MP000384	CFISDCAPG	9	unlabeled	UniProt	Conus leopardus (Leopard cone) (Cucullus leopardus)	Mollusca	UniProt:P0DUC3
+MP000385	CFLGNCPDS	9	unlabeled	UniProt	Conus miliaris (Thousand-spot cone)	Mollusca	UniProt:P0DQM7
+MP000386	CFPGNCPDS	9	unlabeled	UniProt	Conus miliaris (Thousand-spot cone)	Mollusca	UniProt:P0DQM6
+MP000387	CFPPGIYCTPYLPCCWGICCGTCRNVCHLRIGKRATFQE	39	unlabeled	UniProt	Conus emaciatus (False virgin cone)	Mollusca	UniProt:P0C252
+MP000392	CGGAGAKCSTKSDCCSGLWCSGSGHCYHRRYT	32	unlabeled	UniProt	Anthopleura cascaia (Sea anemone)	Cnidaria	UniProt:A0A6I8WFP9
+MP000396	CHFWVCP	7	unlabeled	UniProt	Conus miliaris (Thousand-spot cone)	Mollusca	UniProt:P0DQZ0
+MP000398	CHHEGLPCTSGDGCCGMECCGGVCSSHCGNGRRRQVPLKSFGQR	44	unlabeled	UniProt	Conus figulinus (Fig cone)	Mollusca	UniProt:P0C255
+MP000412	CIIRNCPRG	9	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:P05487
+MP000416	CKCPSCNFNDVTENCKCCIFRQP	23	unlabeled	UniProt	Conus cancellatus (Cancellate cone) (Conus austini)	Mollusca	UniProt:P0DM45
+MP000417	CKGKGAPCTRLMYDCCHGSCSSSKGRCG	28	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:P58916
+MP000418	CKGKGASCHRTSYDCCTGSCNRGKC	25	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:P05485
+MP000419	CKGKGASCRKTMYDCCRGSCRSGRC	25	unlabeled	UniProt	Conus catus (Cat cone)	Mollusca	UniProt:P58918
+MP000420	CKGKGASCRRTSYDCCTGSCRLGRC	25	unlabeled	UniProt	Conus catus (Cat cone)	Mollusca	UniProt:P0DQD4
+MP000421	CKGKGQSCSKLMYDCCTGSCSRRGKC	26	unlabeled	UniProt	Conus catus (Cat cone)	Mollusca	UniProt:P58919
+MP000422	CKGQSCSSCSTKEFCLSKGSRLMYDCCTGSCCGVKTAGVT	40	unlabeled	UniProt	Conus regularis (Regular cone)	Mollusca	UniProt:P0DL31
+MP000424	CKPPGSPCRVSSYNCCSSCKSYNKKCG	27	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:P58914
+MP000425	CKQAGESCDIFSQNCCVGTCAFICIE	26	unlabeled	UniProt	Conus amadis (Amadis cone)	Mollusca	UniProt:P60179
+MP000427	CKSPGTPCSRGMRDCCTSCLLYSNKCRRY	29	unlabeled	UniProt	Conus geographus (Geography cone) (Nubecula geographus)	Mollusca	UniProt:P05483
+MP000429	CLCNSDGPSVRGNTLSGILWLAGCPSGWHNCKKHKPTIGWCCK	43	unlabeled	UniProt	Bunodosoma capense (Knobbly sea anemone) (Actinia capensis)	Cnidaria	UniProt:P0DTR3
+MP000435	CLIQDCPEG	9	unlabeled	UniProt	Conus villepinii (Villepin's cone)	Mollusca	UniProt:P85141
+MP000439	CLQFGSTCFLGDDDICCSGECFYSGGTFGICS	32	unlabeled	UniProt	Conus spurius (Alphabet cone)	Mollusca	UniProt:P0C352
+MP000440	CLSPGSSCSPTSYNCCRSCNPYSRKC	26	unlabeled	UniProt	Conus tulipa (Fish-hunting cone snail) (Tulip cone)	Mollusca	UniProt:P58915
+MP000441	CLSVCSMEYWPVCGSDGKTYPNECHLTSEACMSNTDITVAHVGKCDQ	47	unlabeled	UniProt	Iotyrris cingulifera (Sea snail) (Pleurotoma cingulifera)	Mollusca	UniProt:P0DKM8
+MP000443	CMTICTMEYWPVCGSDGKTYPNKCHLTSTACTSQKDITVLHEGKC	45	unlabeled	UniProt	Lophiotoma albina (Sea snail) (Xenuroturris albina)	Mollusca	UniProt:P0DKM9
+MP000445	CQAYGESCSAVVRCCDPNAVCCQYPEDAVCVTRGYCRPPATVLT	44	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P84197
+MP000452	CRTEGMSCEENQQCCWRSCCRGECEAPCRFGP	32	unlabeled	UniProt	Conus spurius (Alphabet cone)	Mollusca	UniProt:P0C615
+MP000453	CRVENKCPHTVCCDRSRCSCKLIRTRPLMYHVCVC	35	unlabeled	UniProt	Conus caracteristicus (Characteristic cone)	Mollusca	UniProt:B2CS62
+MP000467	CWFPWC	6	unlabeled	UniProt	Conus coronatus (Crowned cone)	Mollusca	UniProt:P0DUC5
+MP000473	CYIQNCLRV	9	unlabeled	UniProt	Conus tulipa (Fish-hunting cone snail) (Tulip cone)	Mollusca	UniProt:P0DL76
+MP000477	CYRPPVC	7	unlabeled	UniProt	Conus lividus (Livid cone)	Mollusca	UniProt:P0DUC8
+MP000482	DANSFCQLPAVVGRCRGRFPRYYYNTEAGKCQRFIYG	37	unlabeled	UniProt	Actinia equina (Beadlet anemone)	Cnidaria	UniProt:P0DMW9
+MP000486	DCCGVKLEMCHPCLCDNSCKKSGK	24	unlabeled	UniProt	Conus purpurascens (Purple cone)	Mollusca	UniProt:P0C2C6
+MP000487	DCCGVKLEMCHPCLCDNSCKNYGK	24	unlabeled	UniProt	Conus purpurascens (Purple cone)	Mollusca	UniProt:P0C2C5
+MP000488	DCCIIAGCPFGCTICC	16	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:C0HKY9
+MP000489	DCCPCPAGAVRCRFACC	17	unlabeled	UniProt	Unedogemmula bisaya (Sea snail) (Lophiotoma bisaya)	Mollusca	UniProt:C0HKK6
+MP000490	DCCPIAGCPFGCTICC	16	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:C0HKZ0
+MP000492	DCCWPGRPDCCAP	13	unlabeled	UniProt	Conus figulinus (Fig cone)	Mollusca	UniProt:P0DP12
+MP000493	DCEQHTDCSAASGPVYCCQDSDCCGGVDYICTNYGQCVRHF	41	unlabeled	UniProt	Terebra subulata (Chocolate spotted auger) (Buccinum subulatum)	Mollusca	UniProt:P0C1T8
+MP000494	DCIPGGENCDVFRPYRCCSGYCILLLCA	28	unlabeled	UniProt	Conasprella delessertii (Sozon's cone) (Conus delessertii)	Mollusca	UniProt:P0CH13
+MP000495	DCLPCGHDVCC	11	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI07
+MP000498	DCPTRCPTTCANGWECCKGYPCVNKACSGCTHGK	34	unlabeled	UniProt	Conasprella delessertii (Sozon's cone) (Conus delessertii)	Mollusca	UniProt:P84698
+MP000499	DCQPCGHNVCC	11	unlabeled	UniProt	Conus quercinus (Oak cone)	Mollusca	UniProt:P0DJC3
+MP000502	DDCIKPYGFCSLPILKNGLCCSGACVGVCADL	32	unlabeled	UniProt	Conus ermineus (Agate cone) (Chelyconus ermineus)	Mollusca	UniProt:P60513
+MP000503	DDCTTYCYGVHCCPPAFKCAASGCVRNN	28	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DJB8
+MP000504	DDCTTYCYGVHCCPPAFKCAASPSCKQT	28	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DJB2
+MP000506	DDETTFPCNSGRCACLPEDSHSYTCQSP	28	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DJB7
+MP000509	DDNPGGASGKFMNVLKGQPLCCPFGGCHELCHCCGS	36	unlabeled	UniProt	Conus pennaceus (Feathered cone) (Conus episcopus)	Mollusca	UniProt:Q9BP43
+MP000511	DECCAIPFCAKIFPGRCP	18	unlabeled	UniProt	Conus pictus (Cone snail)	Mollusca	UniProt:P0DM99
+MP000512	DECCAIPLCAKIFPGRCP	18	unlabeled	UniProt	Conus pictus (Cone snail)	Mollusca	UniProt:P0DMA0
+MP000513	DECFSPGTFCGFKPGLCCSARCFSLFCISLEF	32	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:P0CC15
+MP000514	DECFSPGTFCGIKPGLCCSARCLSFFCISLEF	32	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:P0CC14
+MP000515	DECFSPGTFCGTKPGLCCSARCFSFFCISLEF	32	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:P0CC13
+MP000519	DEEVGCFPNVCKNDGNCSIETSTGMTRCQCLEGYTGHVCENPL	43	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI15
+MP000522	DENENLYGPNENKAKAKDLTAGASYLTKEAGCTKLQAGCTMYQAYN	46	unlabeled	UniProt	Urticina piscivora (Fish-eating sea anemone)	Cnidaria	UniProt:P0C1G1
+MP000526	DEPEYAEAIREYQLKYGKI	19	unlabeled	UniProt	Conus parius (Parian snail)	Mollusca	UniProt:P0C8E1
+MP000536	DGANAEATDNKPGVFERDEKKCCWNRACTRLVPCSK	36	unlabeled	UniProt	Conus bullatus (Bubble cone)	Mollusca	UniProt:P0CY76
+MP000537	DGCCIAKQCC	10	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:C0HKY5
+MP000538	DGCPPHPVPGMHPCMCTNTC	20	unlabeled	UniProt	Conus tessulatus (Tessellate cone)	Mollusca	UniProt:P86362
+MP000542	DGECGDKDEPCCGRPDGAKVCNDPWVCILTSSRCENP	37	unlabeled	UniProt	Conus monile (Necklace cone)	Mollusca	UniProt:A0A0R4I952
+MP000545	DGRCCHPACAKHFNC	15	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:P0C1W1
+MP000548	DGVCSNRRQCNKEVCGSSYDVAIVGA	26	unlabeled	UniProt	Aplysia dactylomela (Spotted sea hare)	Mollusca	UniProt:P86163
+MP000560	DLPECCSATELELDSGKQTS	20	unlabeled	UniProt	Cenchritis muricatus (Beaded periwinkle)	Mollusca	UniProt:B3EWI6
+MP000564	DLRQCTRNAPGSTWGRCCLNPMCGNFCCPRSGCTCAYNWRRGIYCSC	47	unlabeled	UniProt	Conus vexillum (Flag cone)	Mollusca	UniProt:P0C1W7
+MP000565	DMCCHPACMNHFNC	14	unlabeled	UniProt	Conus milneedwardsi (Glory of India cone snail)	Mollusca	UniProt:P0DQQ6
+MP000568	DNSCTPKPSCFF	12	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DJB3
+MP000569	DPCCGYRMCVPC	12	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P86256
+MP000573	DQCSYCGIYCCPPKFCTSAGCRSP	24	unlabeled	UniProt	Conasprella longurionis (Cone snail) (Conus longurionis)	Mollusca	UniProt:P0DOZ0
+MP000574	DQCTYCGIYCCPPKFCTSSGCRSP	24	unlabeled	UniProt	Conus parius (Parian snail)	Mollusca	UniProt:P0CH19
+MP000575	DQGTACTGEHAHNFCLNGGTCRHIQSLGEYYCICPEGYTGHRCEK	45	unlabeled	UniProt	Bunodosoma caissarum (Sea anemone)	Cnidaria	UniProt:P86468
+MP000576	DQGTACTGEHAHSFCLNGGTCRHIQQLGE	29	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P86469
+MP000577	DQPAERMQDDISSEHHPFFDPVKRCCKYGWTCVLGCSPCGC	41	unlabeled	UniProt	Conus pennaceus (Feathered cone) (Conus episcopus)	Mollusca	UniProt:Q9BP55
+MP000579	DQPVERHAENKRHLIPAVMRAMTMNADRRVQCCRIEFCDEDCGCCYH	47	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:A0A2I6EDN8
+MP000580	DQPVERHAGNKRHLNPTIRRAMIIDANRREKCCEVGWCDSGCECC	45	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:A0A2I6EDM9
+MP000581	DQSCPWCGFTCCLPNYCQGLTCTVI	25	unlabeled	UniProt	Conus quercinus (Oak cone)	Mollusca	UniProt:P58843
+MP000588	DSCCIEQHCCD	11	unlabeled	UniProt	Conus amadis (Amadis cone)	Mollusca	UniProt:P0DUU3
+MP000589	DSDCKDKLPACGEYRGSFCKLEKVKSNCEKTCGVKC	36	unlabeled	UniProt	Metridium senile (Brown sea anemone) (Frilled sea anemone)	Cnidaria	UniProt:P11495
+MP000604	DSRGTQLHRALRKATILSVSARCKLSGYRCKRPKQCCNLSCGNYMCG	47	unlabeled	UniProt	Conus bullatus (Bubble cone)	Mollusca	UniProt:P0CY68
+MP000613	DVCDSLVDGRCIHNGCFCEESKPNGNCCDSGGCVWWWCPGTKWD	44	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR41
+MP000614	DVCDSLVDGRCIHNGCFCERDAPNGNCCDTDGCTARWWCPGTKWD	45	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR28
+MP000615	DVCDSLVDGRCIHNGCYCERDAPNGNCCNTDGCTARWWCPGTKWD	45	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR29
+MP000616	DVCDSLVEGRCIHNGCWCDEEAPHGNCCDTAGCTAWWWCPGTKFD	45	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR23
+MP000617	DVCDSLVEGRCIHNGCWCDEEAPHGNCCDTAGCTAWWWCPGTKWD	45	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR24
+MP000618	DVCDSLVGGHCIHNGCWCDQDAPHGNCCDTGGCVWWWCPGTKWD	44	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR26
+MP000619	DVCDSLVGGRCIHNGCWCERSAPHGNCCNTGGCVWWWCPGTKWD	44	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR37
+MP000620	DVCDSLVGGRCIHNGCWCERSAPHGNCCNTSGCTARWWCPGTKFD	45	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR31
+MP000621	DVCDSLVGGRCIHNGCWCERSAPHGNCCNTSGCTATFWCPGTLFD	45	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR33
+MP000622	DVCDSLVGGRCIHNGCYCERDAPNGNCCNTDGCTARWWCPGTKWD	45	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR30
+MP000623	DVCDSLVGGRCIHNGCYCERSAPNGNCCDTAGCTVLWWCPGTKFD	45	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR36
+MP000624	DVCESVAGRCIHNGCWCERSAPHGNCCNTSGCTARWWCPGTKWD	44	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A6YR34
+MP000634	DYCCRRPPCTLIC	13	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P85012
+MP000635	DYCCRRPTCIPIC	13	unlabeled	UniProt	Conus brunneus (Wood's brown cone)	Mollusca	UniProt:C0HLK1
+MP000638	EACYNAGTFCGIKPGLCCSAICLSFVCISFDF	32	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:P69756
+MP000639	EACYPPGTFCGIKPGLCCSELCLPAVCVG	29	unlabeled	UniProt	Conus ermineus (Agate cone) (Chelyconus ermineus)	Mollusca	UniProt:P69752
+MP000643	ECCHPACGKHFSC	13	unlabeled	UniProt	Conus geographus (Geography cone) (Nubecula geographus)	Mollusca	UniProt:P01520
+MP000644	ECCHRQLLCCLRFV	14	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:P0DJL6
+MP000645	ECCNPACGRHYSCGK	15	unlabeled	UniProt	Conus geographus (Geography cone) (Nubecula geographus)	Mollusca	UniProt:P0DQR7
+MP000646	ECCRYVDCRRGCTPCC	16	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:C0HKZ3
+MP000647	ECCTHAHCSQGCRPCC	16	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:C0HKZ1
+MP000648	ECKTNKMSCSLHEECCRFRCCFHGKCQTSVFGCWVDP	37	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7M4K5
+MP000653	EDCIAVGQLCVFWNIGRPCCSGLCVFACTVKLP	33	unlabeled	UniProt	Conus ventricosus (Mediterranean cone)	Mollusca	UniProt:P83301
+MP000664	EGCCSNPACRTNHPEVCD	18	unlabeled	UniProt	Conasprella longurionis (Cone snail) (Conus longurionis)	Mollusca	UniProt:X1WB75
+MP000665	EGCCSNPPCRHNHPEVC	17	unlabeled	UniProt	Conus inscriptus (Engraved cone)	Mollusca	UniProt:P0DUR0
+MP000666	EGCCSNPPCRHTHPEVC	17	unlabeled	UniProt	Conus inscriptus (Engraved cone)	Mollusca	UniProt:P0DUR1
+MP000684	EPNSIWS	7	unlabeled	UniProt	Conus villepinii (Villepin's cone)	Mollusca	UniProt:P85015
+MP000685	EPNSMWS	7	unlabeled	UniProt	Conus villepinii (Villepin's cone)	Mollusca	UniProt:P85014
+MP000691	ERVCCGYPMSCKSRACKPSYCC	22	unlabeled	UniProt	Conus parius (Parian snail)	Mollusca	UniProt:P0CH16
+MP000692	ESDGAHAKARADKPARSAMNRPPGCCNNPACGKNRC	36	unlabeled	UniProt	Conus kinoshitai (Kinoshita's cone)	Mollusca	UniProt:D4HRK8
+MP000693	ESDGAHAKARADKPARSATNRQPGCCNNPACVKHRCG	37	unlabeled	UniProt	Conus kinoshitai (Kinoshita's cone)	Mollusca	UniProt:D4HRK7
+MP000694	ESDGANAEPSADQAARSAVNRPPGCCNNPACGANRCG	37	unlabeled	UniProt	Conus cervus (Pallisade cone)	Mollusca	UniProt:D4HRK6
+MP000695	ESECPWHPWC	10	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:P0DPQ1
+MP000709	EVQRSEDPKLAKRCLESGSLCFAGYGHSSCCSGACLDYGGLGVGACR	47	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:A0A142C1T7
+MP000829	FCCPFIRYCCW	11	unlabeled	UniProt	Conus aulicus (Princely cone)	Mollusca	UniProt:P58848
+MP000830	FCCPVIRYCCW	11	unlabeled	UniProt	Conus aulicus (Princely cone)	Mollusca	UniProt:P58849
+MP000835	FDDLMLLLCCRQGPVCFIPLNEWPCSRM	28	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D6C4H6
+MP000836	FDGRNAAANDKASDLVALTVRGCCSHPACSVNHPELCG	38	unlabeled	UniProt	Conus pergrandis (Grand cone)	Mollusca	UniProt:Q1L777
+MP000837	FDGRNAAASDKASELMALAVRGCCSNPTCAGNNGNICG	38	unlabeled	UniProt	Conus quercinus (Oak cone)	Mollusca	UniProt:A1X8D1
+MP000838	FDGRNAAGNDKMSALMALTTRGCCSHPVCSAMSPICG	37	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:K8DWB5
+MP000839	FDGRNAAPSDKASDLISLAVRGCCSHPACSGNNPYFCGGKR	41	unlabeled	UniProt	Conus litteratus (Lettered cone)	Mollusca	UniProt:A0A068B0Z6
+MP000840	FDGRNAAVNERAPWMVVTATTNCCGYTGPACHPCLCTQSCG	41	unlabeled	UniProt	Conus achatinus (Little frog cone)	Mollusca	UniProt:A3DT44
+MP000841	FDGRNTSANNKATDLMALPVRGCCSDPPCRNKHPDLCGGRR	41	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:K4RNX9
+MP000928	FGSFIPCAHKGEPCTICCRPLRCHEEKTPTCV	32	unlabeled	UniProt	Conus parius (Parian snail)	Mollusca	UniProt:P0CH18
+MP000929	FHGGSWYRFPWGY	13	unlabeled	UniProt	Conus monile (Necklace cone)	Mollusca	UniProt:P84713
+MP000930	FHPSLWVLIPQYIQLIRKILKSG	23	unlabeled	UniProt	Conus mustelinus (Weasel cone)	Mollusca	UniProt:P0C8S6
+MP001332	FRGRDAAAKASGLVGLTDRRGCCSHPACNVDHPEICG	37	unlabeled	UniProt	Conus lividus (Livid cone)	Mollusca	UniProt:L8BU87
+MP001351	FTAMAATGASNRVNAAANGKASDLISLAVRNGCCSNPACGNGNPGLCGSG	50	unlabeled	UniProt	Conus andremenezi	Mollusca	UniProt:A0A291C1N9
+MP001387	GAACFCDSDGPSVSGNTLSGILWLAGCPSGWHNCKAHGPNIGWCCKK	47	unlabeled	UniProt	Anthopleura xanthogrammica (Giant green sea anemone) (Actinia xanthogrammica)	Cnidaria	UniProt:P0C5G0
+MP001388	GAACLCKSDGPNTRGNSMSGTIWVFGCPSGWNNCEGRAIIGYCCKQ	46	unlabeled	UniProt	Anemonia sulcata (Mediterranean snakelocks sea anemone)	Cnidaria	UniProt:P01533
+MP001404	GAKERNNAEAVRERLEEI	18	unlabeled	UniProt	Conus gloriamaris (Glory-of-the-Sea cone)	Mollusca	UniProt:P0DOZ6
+MP001407	GAPCLCANSGPNTRGNDLNGIVWVFGCPSGWHDCHGRAMVGYCCQED	47	unlabeled	UniProt	Anemonia erythraea (Sea anemone) (Actinia erythraea)	Cnidaria	UniProt:P69943
+MP001410	GASCDCHPFKGTYWFGTSNCPSGHGYRKKCDSFF	34	unlabeled	UniProt	Urticina crassicornis (Mottled anemone) (Tealia crassicornis)	Cnidaria	UniProt:P0DUG3
+MP001412	GASCRCDSDGPTSRGDTLTGTLWLIGRCPSGWHNCRGSGPFIGYCCKQ	48	unlabeled	UniProt	Bunodosoma granuliferum (Red warty sea anemone)	Cnidaria	UniProt:P0C1F5
+MP001413	GASCRCDSDGPTSRGNTLTGTLWLIGRCPSGWHNCRGSGPFIGYCCKQ	48	unlabeled	UniProt	Bunodosoma granuliferum (Red warty sea anemone)	Cnidaria	UniProt:P0C1F4
+MP001415	GATIMPGTLWCGKGNSAADYLQLGVWKDTAHCCRDHDGC	39	unlabeled	UniProt	Bunodosoma caissarum (Sea anemone)	Cnidaria	UniProt:P86780
+MP001418	GAVPCGKDGRQCRNHADCCNCCPFGTCAPSTNRILPGCSTGMFLTR	46	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z097
+MP001419	GAVPCGKDGRQCRNHADCCNCCPIGTCAPSTNWILPGCSTGPFMTR	46	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z099
+MP001420	GAVPCGKDGRQCRNHADCCNCCPIGTCAPSTNWILPGCSTGQFMTR	46	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:P0C257;UniProt:Q7Z098
+MP001423	GAYFDGFDVPCVPRRDDC	18	unlabeled	UniProt	Conus australis (Austral cone) (Asprella australis)	Mollusca	UniProt:P0DOZ2
+MP001427	GCCGAFACRFGCTPCC	16	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P86260
+MP001428	GCCGKYPNAACHPCGCTVGRPPYCDRPSGG	30	unlabeled	UniProt	Conus ermineus (Agate cone) (Chelyconus ermineus)	Mollusca	UniProt:P58783
+MP001429	GCCGPYPNAACHPCGCKVGRPPYCDRPSGG	30	unlabeled	UniProt	Conus ermineus (Agate cone) (Chelyconus ermineus)	Mollusca	UniProt:P58782
+MP001430	GCCGSFACRFGCVPCCV	17	unlabeled	UniProt	Conus marmoreus (Marble cone)	Mollusca	UniProt:P0C1M9
+MP001431	GCCGVPSCMAGCRPCC	16	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DPK8
+MP001432	GCCHIIACRMGCSPCCW	17	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DPK9
+MP001433	GCCHLLACRFGCSPCCW	17	unlabeled	UniProt	Conus pennaceus (Feathered cone) (Conus episcopus)	Mollusca	UniProt:P0DL85
+MP001434	GCCHPSTCHVRKGCSRCCS	19	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P86263
+MP001435	GCCPPQWCGPGCTSPCC	17	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P85016
+MP001436	GCCRFPCPDSCRSLCC	16	unlabeled	UniProt	Conus natalis (Natal textile cone)	Mollusca	UniProt:P0DMB3
+MP001437	GCCSDPRCKHEC	12	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P85010
+MP001438	GCCSDPRCKHQC	12	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P85009
+MP001439	GCCSDPRCRYRC	12	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P85011
+MP001440	GCCSHPACNVNNPHICG	17	unlabeled	UniProt	Conus omaria (Omaria cone)	Mollusca	UniProt:P0C1R7
+MP001441	GCCSHPPCNVNNPHICG	17	unlabeled	UniProt	Conus inscriptus (Engraved cone)	Mollusca	UniProt:P0DUR2
+MP001442	GCCSLPPCAANNPDYC	16	unlabeled	UniProt	Conus pennaceus (Feathered cone) (Conus episcopus)	Mollusca	UniProt:P50984
+MP001443	GCCSPWNCIQLRACGCC	17	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P0DPJ7
+MP001444	GCCSPWNCIQLRACPCCPN	19	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P85018
+MP001445	GCCSRPPCIANNPDIC	16	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P86261
+MP001446	GCCSYPPCFATNSGYC	16	unlabeled	UniProt	Conus aulicus (Princely cone)	Mollusca	UniProt:P56641
+MP001447	GCEWDSWC	8	unlabeled	UniProt	Conus lividus (Livid cone)	Mollusca	UniProt:P0DUC7
+MP001448	GCEWVSWC	8	unlabeled	UniProt	Conus lividus (Livid cone)	Mollusca	UniProt:P0DUC6
+MP001449	GCGGVCAYGESCPSSCNTCYSAQCTAQ	27	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:P81727
+MP001450	GCGVDGQFCGLPGLGLVCCRGACFLVCIYIP	31	unlabeled	UniProt	Conus spurius (Alphabet cone)	Mollusca	UniProt:C0HMG4
+MP001451	GCKDNFSANTCKHVKANNNCGSQKYATNCAKTCGKC	36	unlabeled	UniProt	Actinia equina (Beadlet anemone)	Cnidaria	UniProt:P81897
+MP001452	GCKGKYEECTRDSDCCDEKNRSGRKLRCLTQCDEGGCLKYRQCLFYGGLQ	50	unlabeled	UniProt	Bunodosoma caissarum (Sea anemone)	Cnidaria	UniProt:C0HJC4
+MP001453	GCKKDRKPCSYHADCCNCCLSGICAPSTNWILPGCSTSSFFKI	43	unlabeled	UniProt	Conus figulinus (Fig cone)	Mollusca	UniProt:P0C610
+MP001454	GCKKDRKPCSYHADCCNCCLSGICAPSTNWILPGCSTSTFT	41	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z091
+MP001455	GCKKDRKPCSYQADCCNCCPIGTCAPSTNWILPGCSTGPFMAR	43	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:P0C259
+MP001457	GCPWDPWC	8	unlabeled	UniProt	Conus figulinus (Fig cone)	Mollusca	UniProt:P0DP14
+MP001458	GCPWDSWC	8	unlabeled	UniProt	Conus frigidus (Frigid cone)	Mollusca	UniProt:P0DPQ2
+MP001459	GCPWEPWC	8	unlabeled	UniProt	Conus leopardus (Leopard cone) (Cucullus leopardus)	Mollusca	UniProt:P0DP17
+MP001460	GCPWMPWC	8	unlabeled	UniProt	Conus figulinus (Fig cone)	Mollusca	UniProt:P0DP13
+MP001470	GCVLLPWC	8	unlabeled	UniProt	Conus purpurascens (Purple cone)	Mollusca	UniProt:P58785
+MP001471	GCVLYPWC	8	unlabeled	UniProt	Conus inscriptus (Engraved cone)	Mollusca	UniProt:P0C249
+MP001472	GCWICWGPNACCRGSVCHDYCPS	23	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DJB9
+MP001473	GCWLCLGPNACCRGDVCHSYCPG	23	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DRL3
+MP001474	GCWLCLGPNACCRGSVCHDYCPS	23	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DRL2
+MP001477	GDACSLLNGDDCGPGELCCTPSGDHQGTCETSCW	34	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DJC0
+MP001479	GDCPWKPWC	9	unlabeled	UniProt	Conus ventricosus (Mediterranean cone)	Mollusca	UniProt:P83047
+MP001480	GDCSCEGQICKCGYRVSPGKSGCACTCRNAK	31	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:Q45RU7
+MP001484	GDPPRFCRDKLCSGDGDCSVWCTAGCNHDMGKCDTL	36	unlabeled	UniProt	Gemmula speciosa (Splendid gem-turris) (Pleurotoma speciosa)	Mollusca	UniProt:P0C849
+MP001488	GDWGTCSWPGQECEHDSDCCGSFCCVGRRCLHIYFPCNLSRS	42	unlabeled	UniProt	Conus aulicus (Princely cone)	Mollusca	UniProt:P0C608
+MP001489	GECCTDCAQTAAANYC	16	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI06
+MP001490	GEDEYAEGIREYQLIHGKI	19	unlabeled	UniProt	Conus parius (Parian snail)	Mollusca	UniProt:P0C8E0
+MP001491	GEEERKAMAELEAKKAQEALKA	22	unlabeled	UniProt	Conus ochroleucus (Perfect cone) (Graphiconus ochroleucus)	Mollusca	UniProt:P0DP00
+MP001492	GEEEYQKMLENLREAEVKKNA	21	unlabeled	UniProt	Conus tulipa (Fish-hunting cone snail) (Tulip cone)	Mollusca	UniProt:P17684
+MP001496	GEPEVAKWAEGLREKAASN	19	unlabeled	UniProt	Conus parius (Parian snail)	Mollusca	UniProt:P0C8E2
+MP001628	GFRSPCPPFC	10	unlabeled	UniProt	Conus zonatus (Zoned cone)	Mollusca	UniProt:P0DQM9
+MP001649	GGCCSHPACAANNQDYC	17	unlabeled	UniProt	Conus anemone (Anemone cone)	Mollusca	UniProt:P0C1V7
+MP001650	GGCCSHPACFASNPDYC	17	unlabeled	UniProt	Conus anemone (Anemone cone)	Mollusca	UniProt:P0C1V8
+MP001651	GGCCSHPACQNNPDYC	16	unlabeled	UniProt	Conus tinianus (Variable cone)	Mollusca	UniProt:P0CI05
+MP001652	GGCCSYPPCAVSNPQHC	17	unlabeled	UniProt	Conus ventricosus (Mediterranean cone)	Mollusca	UniProt:P0C8V4
+MP001677	GGVGRCIYNCMNSGGGLNFIQCKTMCY	27	unlabeled	UniProt	Conus cancellatus (Cancellate cone) (Conus austini)	Mollusca	UniProt:P0C6S2
+MP001678	GGVPCLCDSDGPSVRGNTLSGIIWLAGCPSGWHNCKAHGPTIGWCCKQ	48	unlabeled	UniProt	Anthopleura fuscoviridis (Rainbow bottom anemone)	Cnidaria	UniProt:P10454
+MP001686	GHVPCGKDGRKCGYHADCCNCCLSGICKPSTSWTGCSTSTFD	42	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:P0C614;UniProt:Q7Z0A6
+MP001687	GHVPCGKDGRKCGYHADCCNCCLSGICKPSTSWTGCSTSTFLLTR	45	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z0A3
+MP001688	GHVPCGKDGRKCGYHADCCNCCLSGICKPSTSWTGCSTSTFN	42	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z0A2
+MP001689	GHVPCGKDGRKCGYHADCCNCCLSGICKPSTSWTGCSTSTVQLTR	45	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z0A5
+MP001690	GHVPCGKDGRKCGYHTHCCNCCLSGICKPSTSLIGCSTSSFT	42	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z0A1
+MP001691	GHVPCGKDRRKCGYHADCCNCCLSGICKPSTSWTGCSTSTFLLTR	45	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z0A4
+MP001692	GHVSCGKDGRACDYHADCCNCCLGGICKPSTSWIGCSTNVFLTR	44	unlabeled	UniProt	Conus figulinus (Fig cone)	Mollusca	UniProt:P0C256;UniProt:Q7Z0A0
+MP001694	GIACLCDSDGPSVRGNTLSGTYWLAGCPSGWHNCKSSGQLIGACCKQ	47	unlabeled	UniProt	Anthopleura elegantissima (Green aggregating anemone) (Actinia elegantissima)	Cnidaria	UniProt:P0C1F0
+MP001702	GICSEPIVVGPCKAG	15	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:P0DV07
+MP002035	GLGRPSRECIEGSEPCEVFRPYTCCSGHCIIFVCAR	36	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D2Y4A2
+MP002050	GLIKPGTLWCGMGNNAETYDQLGPFADVDSCK	32	unlabeled	UniProt	Rhopilema nomadica (Mediteranean medusa)	Cnidaria	UniProt:P43318
+MP002051	GLIRPSKRCIGGGDPCEFHRPYTCCSGYCIVFVCA	35	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D2Y4A0
+MP002204	GLNRPSKRCLAGSAPCEFHKRSTCCSGHCIIWWCA	35	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D2Y497
+MP002207	GLPCDCHGHTGTYWLNYYSKCPKGYGYTGRCRYLVGSCCYK	41	unlabeled	UniProt	Bunodosoma caissarum (Sea anemone)	Cnidaria	UniProt:P84919
+MP002236	GLSQSGCQAFTGRWCVGCERLRSRVVWECSPKRVVNSI	38	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI21
+MP002237	GLSRPSKRCIAGGQPCEFHRGYMCCSEHCIIFVCA	35	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D2Y4A1
+MP002239	GLTRPSKRCLAGSAPCEFHRGYTCCSGHCLIWVCA	35	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D2Y498
+MP002280	GLWRNGETELLGHKCRFTVKPYIKRLQLHYKGKMWCPGWT	40	unlabeled	UniProt	Penaeus schmitti (White shrimp) (Litopenaeus schmitti)	Malacostraca	UniProt:A4UMS3
+MP002297	GLYCCQPKPNGQMMCNRWCEINSRCCGRR	29	unlabeled	UniProt	Conus bullatus (Bubble cone)	Mollusca	UniProt:P0CY74
+MP002305	GMGIGINLPPCIKNGEYCNPWTGSIILGGACCGTCTDYECH	41	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI16
+MP002322	GNCKCDDEGPNVRTAPLTGYVDLGYCNEGWDKCASYYSPIAECCRKKK	48	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:P30784
+MP002323	GNCKCDDEGPNVRTAPLTGYVDLGYCNEGWEKCASYYSPIAECCRKK	47	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:P30785
+MP002324	GNCKCDDEGPNVRTAPLTGYVDLGYCNEGWEKCASYYSPIAECCRKKK	48	unlabeled	UniProt	Heteractis magnifica (Magnificent sea anemone) (Radianthus magnifica)	Cnidaria	UniProt:P08380
+MP002325	GNCKCDDEGPYVRTAPLTGYVDLGYCNEGWEKCASYYSPIAECCRKKK	48	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:P30832
+MP002337	GNWCCSARVCC	11	unlabeled	UniProt	Conus monile (Necklace cone)	Mollusca	UniProt:P0C2F2
+MP002344	GPMEDPLEIIRI	12	unlabeled	UniProt	Conus spurius (Alphabet cone)	Mollusca	UniProt:P85871
+MP002345	GPMGWVPVFYRF	12	unlabeled	UniProt	Conus spurius (Alphabet cone)	Mollusca	UniProt:P58805
+MP002346	GPPCCLYGSCRPFPGCYNALCCRK	24	unlabeled	UniProt	Conus purpurascens (Purple cone)	Mollusca	UniProt:P60245
+MP002347	GPSFCKADEKPCEYHADCCNCCLSGICAPSTNWILPGCSTSSFFKI	46	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z094
+MP002348	GPSFCKADEKPCEYHSDCCNCCLSGICAPSTNWILPGCSTSSFFKI	46	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z095
+MP002349	GPSFCKANGKPCSYHADCCNCCLSGICAPSTNWILPGCSTSSFFKI	46	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z093
+MP002350	GPSFCKANGKPCSYHADCCNCCLSGICKPSTNVILPGCSTSSFFRI	46	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:Q7Z092
+MP002352	GPSSCKADEEPCEYHADCCNCCLSGICAPSTNWILPGCSTSSFFKI	46	unlabeled	UniProt	Conus figulinus (Fig cone)	Mollusca	UniProt:P0C611
+MP002358	GRCCDVPNACSGRWCRDHAQCC	22	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:P0C1T9
+MP002359	GRCCEGPNGCSSRWCKDHARCC	22	unlabeled	UniProt	Conus catus (Cat cone)	Mollusca	UniProt:P0C1U1
+MP002360	GRCCHPACGKNYSC	14	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:P01521
+MP002416	GSTCLEPKVVGPCKA	15	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:P0DV02
+MP002423	GTACSCGNSKGIYWFYRPSCPTDRGYTGSCRYFLGTCCTPAD	42	unlabeled	UniProt	Anthopleura elegantissima (Green aggregating anemone) (Actinia elegantissima)	Cnidaria	UniProt:P61542
+MP002426	GTCKCDDDGPDVRTATFTGSTEFANCNESWEKCLAVYTPVASCCRKKK	48	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:P30783
+MP002434	GTPCDCYGYTGVYWFMLSRCPSGYGYNLSCHYFMGICCVKR	41	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:C0HL54;UniProt:P0DRI4
+MP002435	GTPCKCHGYIGVYWFMLAGCPDGYGYNLSCPYFLGICCVKK	41	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:C0HL53
+MP002436	GTPCKCHGYIGVYWFMLAGCPNGYGYNLSCPYFLGICCVDR	41	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:P0DL87
+MP002437	GTPCKCHGYIGVYWFMLAGCPNGYGYNLSCPYFLGICCVKK	41	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:C0HL52
+MP002438	GTPCYCGKTIGIYWFGTKTCPSNRGYTGSCGYFLGICCYPVD	42	unlabeled	UniProt	Anthopleura elegantissima (Green aggregating anemone) (Actinia elegantissima)	Cnidaria	UniProt:B3EWF9
+MP002443	GTTCKCGSTLGIYWFAVTSCPPGRGYTTHCGYF	33	unlabeled	UniProt	Bunodosoma caissarum (Sea anemone)	Cnidaria	UniProt:P86470
+MP002445	GTTCYCGKTIGIYWFGTKTCPSNRGYTGSCGYFLGICCYPVD	42	unlabeled	UniProt	Anthopleura elegantissima (Green aggregating anemone) (Actinia elegantissima)	Cnidaria	UniProt:P61541
+MP002446	GTTCYCGSTLGIYWFAVSSCPSGRGYTGHCGYFLGLCC	38	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P86461
+MP002450	GVACLCDADGPSVSGNTLSGILWLAGCPSGWHNCKAHGPTIGWCCKK	47	unlabeled	UniProt	Anthopleura xanthogrammica (Giant green sea anemone) (Actinia xanthogrammica)	Cnidaria	UniProt:P0C5F9
+MP002451	GVACLCDSDGPNVRGNTLSGTIWLAGCPSGWHNCKAHGPTIGWCCKQ	47	unlabeled	UniProt	Anthopleura fuscoviridis (Rainbow bottom anemone)	Cnidaria	UniProt:P10453
+MP002452	GVACRCDSDGPTSRGNTLTGTLWLTGGCPSGWHNCRGSGPFIGYCCKK	48	unlabeled	UniProt	Bunodosoma caissarum (Sea anemone)	Cnidaria	UniProt:Q7M425
+MP002453	GVACRCDSDGPTVHGDSLSGTLWLTGGCPSGWHNCRGSGPFIGYCCKK	48	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P0C7Q0
+MP002454	GVACRCDSDGPTVRGDSLSGTLWLTGGCPSGWHNCRGSGPFIGYCCKK	48	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P0C7P9
+MP002455	GVACRCDSDGPTVRGNSLSGTLWLTGGCPSGWHNCRGSGPFIGYCCKK	48	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P82803
+MP002456	GVCCGVSFCYPC	12	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:P0CI22
+MP002509	GVPCKCGSKKGVYWFGQITGCPGGHGYKGSCNYLLGK	37	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P86462
+MP002510	GVPCLCDSDGPNVRGNTLSGILWLAGCPSGWHNCKAHGPTIGWCCKQ	47	unlabeled	UniProt	Anthopleura elegantissima (Green aggregating anemone) (Actinia elegantissima)	Cnidaria	UniProt:P0C1F3
+MP002511	GVPCLCDSDGPNVRGNTLSGTYWLAGCPSGWHNCKSSGPLIGACCKQ	47	unlabeled	UniProt	Anthopleura elegantissima (Green aggregating anemone) (Actinia elegantissima)	Cnidaria	UniProt:P0C1F1
+MP002512	GVPCLCDSDGPNVRGNTLSGTYWLAGCPSGWHNCKSSGPNIGWCCKK	47	unlabeled	UniProt	Anthopleura xanthogrammica (Giant green sea anemone) (Actinia xanthogrammica)	Cnidaria	UniProt:P0C5F8
+MP002513	GVPCLCDSDGPRPRGNTLSGILWFYPSGCPSGWHNCKAHGPNIGWCCKK	49	unlabeled	UniProt	Anthopleura xanthogrammica (Giant green sea anemone) (Actinia xanthogrammica)	Cnidaria	UniProt:P01531
+MP002514	GVPCLCDSDGPSVHGNTLSGTIWLAGCPSGWHNCKAHGPTIGWCCKK	47	unlabeled	UniProt	Anthopleura sp. (strain 'Zhanjiang') (Sea anemone)	Cnidaria	UniProt:P0C5F5
+MP002515	GVPCLCDSDGPSVRGNSLSGIIWLFGCPSGWHNCRDHGPTIGWCCKK	47	unlabeled	UniProt	Anthopleura xanthogrammica (Giant green sea anemone) (Actinia xanthogrammica)	Cnidaria	UniProt:P0C5G1
+MP002516	GVPCLCDSDGPSVRGNTLSGIIWLAGCPSGWHNCKKHGPTIGWCCKQ	47	unlabeled	UniProt	Anemonia sulcata (Mediterranean snakelocks sea anemone)	Cnidaria	UniProt:P01528
+MP002517	GVPCLCDSDGPSVRGNTLSGILWLAGCPSGWHNCKAHGPTIGWCCKQ	47	unlabeled	UniProt	Anthopleura elegantissima (Green aggregating anemone) (Actinia elegantissima)	Cnidaria	UniProt:P01532
+MP002518	GVPCLCDSDGPSVRGNTLSGILWLAGCPSGWHNCKKHKPTIGWCCK	46	unlabeled	UniProt	Anemonia sulcata (Mediterranean snakelocks sea anemone)	Cnidaria	UniProt:P01529
+MP002519	GVPCLCDSDGPSVRGNTLSGTLWLAGCPSGWHNCKAHGPTIGWCCKK	47	unlabeled	UniProt	Anthopleura sp. (strain 'Zhanjiang') (Sea anemone)	Cnidaria	UniProt:P0C5F4
+MP002520	GVPCLCDSDGPSVRGNTLSGTLWLFGCPSGWHNCKAHGPTIGWCCKK	47	unlabeled	UniProt	Anthopleura sp. (strain 'Zhanjiang') (Sea anemone)	Cnidaria	UniProt:P0C5F7
+MP002521	GVPCLCDSDGPSVRGNTLSGTLWLFGCPSGWHNCKARGPTIGWCCKK	47	unlabeled	UniProt	Anthopleura sp. (strain 'Zhanjiang') (Sea anemone)	Cnidaria	UniProt:P0C5F6
+MP002522	GVPCLCDSDGPSVRGNTLSGTVWVFGCPSGWHICTSDGPTIGSCCKK	47	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P86459
+MP002523	GVPCRCDSDGPSVHGNTLSGTIWVGSCETGWHKCNTEHNLFHECCKQ	47	unlabeled	UniProt	Radianthus crispa (Leathery sea anemone) (Heteractis crispa)	Cnidaria	UniProt:P0C5G5
+MP002524	GVPCRCDSDGPSVHGNTLSGTVWVGSCASGWHKCNDEYNIAYECCKE	47	unlabeled	UniProt	Condylactis gigantea (Giant Caribbean anemone) (Condylactis passiflora)	Cnidaria	UniProt:P0C280
+MP002525	GVPCRCDSDGPSVHGNTLSGTVWVGSCASGWHKCNTEHNIFHECCKE	47	unlabeled	UniProt	Condylactis gigantea (Giant Caribbean anemone) (Condylactis passiflora)	Cnidaria	UniProt:P0CH42
+MP002526	GVPCSCRGKSGTYWSAGKCPGEHYTTYCNNLIG	33	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P86463
+MP002529	GVSCKCGSKKGVYWFGQITGCPGGHGYKGSCSYVLG	36	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P86464
+MP002530	GVSCLCDSDGPSVRGNTLSGILWFYPSGCPSGWHNCKAHGPTIGWCCKQ	49	unlabeled	UniProt	Anthopleura xanthogrammica (Giant green sea anemone) (Actinia xanthogrammica)	Cnidaria	UniProt:P0C5G3
+MP002531	GVSCLCDSDGPSVRGNTLSGTLWLYPSGCPSGWHNCKAHGPTIGWCCKQ	49	unlabeled	UniProt	Anthopleura xanthogrammica (Giant green sea anemone) (Actinia xanthogrammica)	Cnidaria	UniProt:P01530
+MP002611	GYEEREIAETVRELEEA	17	unlabeled	UniProt	Conus caracteristicus (Characteristic cone)	Mollusca	UniProt:P0DOZ5
+MP002612	GYEEREVAETVRELDAA	17	unlabeled	UniProt	Conus quercinus (Oak cone)	Mollusca	UniProt:P0DOZ4
+MP002632	HECCKKGFCDPGCDCCDQ	18	unlabeled	UniProt	Conus pictus (Cone snail)	Mollusca	UniProt:P0DMA1
+MP002645	HNDLIRAGLTVCLSENRKRLTCSGLLNMAGSVCCKVDTSCCSSQ	44	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:Q45RU8
+MP002660	HSPGGA	6	unlabeled	UniProt	Scylla serrata (Mud crab)	Malacostraca	UniProt:B3A0L8
+MP002673	ICCNPACGPKYSC	13	unlabeled	UniProt	Conus obscurus (Obscure cone) (Conus halitropus)	Mollusca	UniProt:P0DQY1
+MP002678	IDPPRYCNHIICYEDSECSQWCTAGCNSITSKCDT	35	unlabeled	UniProt	Gemmula speciosa (Splendid gem-turris) (Pleurotoma speciosa)	Mollusca	UniProt:P0C844
+MP002683	IEARCQPIGCRVDFGSLSCGPFQIKKGYWT	30	unlabeled	UniProt	Bathymodiolus azoricus (Mussel)	Mollusca	UniProt:D0QS86
+MP002684	IEARCQPIGCRVDFGSLSCGPFQIKRGYWT	30	unlabeled	UniProt	Bathymodiolus azoricus (Mussel)	Mollusca	UniProt:D0QSA8
+MP002685	IESHCLPIGCRMDVGSLSCGPFQIKKGYWT	30	unlabeled	UniProt	Bathymodiolus azoricus (Mussel)	Mollusca	UniProt:D0QSB7
+MP002757	ILLLLIPSAHSVIARPKTKDDVPLASFHDNPMGTEQRDWCCKPGKRWCC	49	unlabeled	UniProt	Conus praecellens (Admirable cone)	Mollusca	UniProt:A0A291C2W2
+MP002773	ILSLSLLDRSTRCKGTGKSCSRIAYNCCTGSCRSGKCG	38	unlabeled	UniProt	Conus fulmen (Thunderbolt cone) (Chelyconus fulmen)	Mollusca	UniProt:P0DW83
+MP002775	IMYDCCSGSCSGYTGRC	17	unlabeled	UniProt	Conus stercusmuscarum (Fly-specked cone)	Mollusca	UniProt:P0DPM2
+MP002819	IRVVLGPASDGRDDEAKDKRSDMYESDRNGRCCHPSCGRKYNCGR	45	unlabeled	UniProt	Conus aurisiacus (Aurisiacus cone)	Mollusca	UniProt:D4HPC8
+MP002820	ISGTSMSCPHVAGRAYVLDTSLRVYLLDTGLR	32	unlabeled	UniProt	Hediste japonica (Polychaete worm) (Neanthes japonica)	Annelida	UniProt:P86876
+MP002826	ITCCTRGTCAQHC	13	unlabeled	UniProt	Conus brunneus (Wood's brown cone)	Mollusca	UniProt:P0C8U3
+MP002862	IVRRACCSDRRCRWRCG	17	unlabeled	UniProt	Conus imperialis (Imperial cone)	Mollusca	UniProt:Q8I6R5
+MP002864	IVRRGCCSDPRCAWRCG	17	unlabeled	UniProt	Conus imperialis (Imperial cone)	Mollusca	UniProt:P50983
+MP002893	KCCMRPICMCPCC	13	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P85019
+MP002894	KCCMRPICTCPCCIG	15	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P85022
+MP002895	KCCMRPICTCPCCIGP	16	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P85017
+MP002897	KCFEVGEFCGSPMLLGSLCCYPGWCFFVCVG	31	unlabeled	UniProt	Conus pictus (Cone snail)	Mollusca	UniProt:P0DMA3
+MP002912	KECCTHPACHVSHPELCG	18	unlabeled	UniProt	Conus bandanus (Banded marble cone)	Mollusca	UniProt:P0CE74
+MP003010	KPCCSIHDNSCCGI	14	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P86259
+MP003011	KPCCSIHDSSCCGI	14	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P86258
+MP003019	KQCTSNMCSADCSPGCCIIDKLEWCTCDC	29	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI10
+MP003048	KRNGCCNCSSKWCRDHSRCCGR	22	unlabeled	UniProt	Conus kinoshitai (Kinoshita's cone)	Mollusca	UniProt:P0C195
+MP003073	KSTSCMEAGSYCGSTTRICCGYCAYSASKNVCDYPSN	37	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:P0C832
+MP003176	KYDVPLTSLNDNAKRTLQIHWNKRCCPEKIWCCIIPVA	38	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:A0A142C1V7
+MP003198	LDGRNAAADFETSDLLAMTIRGGCCSYPPCIANNPLCGGKR	41	unlabeled	UniProt	Conus pulicarius (Flea-bitten cone)	Mollusca	UniProt:A1X8D8
+MP003208	LFERYAENKQDLSPDERMGFILSALRQQECCVYPFCDGGCYTCQDSCE	48	unlabeled	UniProt	Conus arenatus (Sand-dusted cone)	Mollusca	UniProt:Q9BP44
+MP003211	LFHYCQCQCPPGFKGKFCQFKLRPP	25	unlabeled	UniProt	Conus litoglyphus (Lithograph cone)	Mollusca	UniProt:P0DQY6
+MP003252	LLCISCCVSITECCQLMSGCAVEIKS	26	unlabeled	UniProt	Iotyrris olangoensis (Sea snail) (Lophiotoma olangoensis)	Mollusca	UniProt:P0DKN7
+MP003270	LLLLIQSAPSVVARPETKDDAPLASSHDNAMGTTKRLCCDVLHTTCCK	48	unlabeled	UniProt	Conus praecellens (Admirable cone)	Mollusca	UniProt:A0A291C300
+MP003282	LNCEGFAREHNGGPNGCHSSRTLKYWELLQKIPGCKGVKFS	41	unlabeled	UniProt	Ruditapes philippinarum (Japanese carpet shell) (Venerupis philippinarum)	Mollusca	UniProt:Q8IU27
+MP003283	LNKRCAGIGSFCGLPGLVDCCSGRCFIVCLP	31	unlabeled	UniProt	Conus eburneus (Ivory cone)	Mollusca	UniProt:A0A0F6QDA5
+MP003299	LPPCCTPPKKHCPAPACKYKPCCKS	25	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:P0CG45
+MP003343	LSGATRRGDRRMCSFLGQRCERHFNCCGDLCCFDDMCLVAAIGCGY	46	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:A0A142C1R3
+MP003345	LSKKQCGADGQFCFLPGLGLNCCSGLCLIVCVPT	34	unlabeled	UniProt	Conus ateralbus (Cone snail)	Mollusca	UniProt:A0A3G6IHA6
+MP003357	LTCLTKMVECIQLPLDVEDSSDTLCC	26	unlabeled	UniProt	Iotyrris olangoensis (Sea snail) (Lophiotoma olangoensis)	Mollusca	UniProt:P0DKN6
+MP003361	LTLDRASDDTDVAAEIMSGLIALAIDSCCSDSDCNANHPDMCS	43	unlabeled	UniProt	Conus leopardus (Leopard cone) (Cucullus leopardus)	Mollusca	UniProt:P0C901
+MP003364	LTTTVVSFPSDSASDGRDNEAKDERSDMYELKRNGRCCHPACGKYFKCGR	50	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:P0DKP8;UniProt:S6CPX5
+MP003383	MCLSLGQRCGRHSNCCGYLCCFYDKCVVTAIGCGHY	36	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:P0C609
+MP003388	METVSVEEGLDFAPGMVSQKFAPGMVSQKCLLCMCKLESGG	41	unlabeled	UniProt	Ruditapes philippinarum (Japanese carpet shell) (Venerupis philippinarum)	Mollusca	UniProt:Q8IU28
+MP003394	MGDLSEADSMKHQLQRRDCGRCGLGQICDAGACRPSTMM	39	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D6C4J6
+MP003400	MKLTYVLIVAMLVLVVCRADCFGRGGLCTWFDPSVCCSGICTFVDCW	47	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DTY0
+MP003410	MKVTCVLVLTLMALTVCQVATAYCINVGMCIYDGYCCSNRCWGGMCSPWR	50	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DTY1
+MP003424	MQDFAPEHSPWFDPVRRCCSRDCRVCIPCCPH	32	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:A0A142C1G6
+MP003428	MRCLPVFVILLLLIASAPSVDDNAKGTQHKRIINWCCLTFYQCC	44	unlabeled	UniProt	Conus spurius (Alphabet cone)	Mollusca	UniProt:C0KYC4
+MP003433	MRLVVCLVFLASFALVCQAQGYQGGYTRPFPRPPYG	36	unlabeled	UniProt	Penaeus monodon (Giant tiger prawn)	Malacostraca	UniProt:C7F445
+MP003434	MRLVVCLVFLASFALVCQAQGYQGGYTRPFPRPPYGGGYHPVP	43	unlabeled	UniProt	Penaeus monodon (Giant tiger prawn)	Malacostraca	UniProt:C6FWF4
+MP003450	MSLILIFFAFTVLKSSKWICANRSVCPI	28	unlabeled	UniProt	Actinia tenebrosa (Australian red waratah sea anemone)	Cnidaria	UniProt:P0DQJ2
+MP003464	MTRTAVLLLTLLFLVAMAASDKIKTRELCWSERECENGK	39	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DUA8
+MP003465	MTRTAVLLLTLLFLVAMAASDKIKTRELCWTEEECENWE	39	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DUA7
+MP003466	MTRTAVLLLTLLFLVAMAASDKIKTREVCWNEEECENWE	39	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DUA9
+MP003467	MTRTAVLLLTLLFLVAMAASDKIKTREVCWTEEECENWE	39	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DUA6
+MP003468	MTSNCENWAGRGLCTGKRGWKAYMEENCRKTCGFCKSSESAVSVRTLLGI	50	unlabeled	UniProt	Pocillopora meandrina	Cnidaria	UniProt:A0AAU9WGZ3
+MP003471	MWCPGWTAIRGEARTRSHSGVAGRTAQDFVRKAFQKGLISQQEANQ	46	unlabeled	UniProt	Penaeus indicus (Indian white prawn) (Fenneropenaeus indicus)	Malacostraca	UniProt:A0AAU8HXE3
+MP003479	NAAVAGAVIEGATLTFEVLQ	20	unlabeled	UniProt	Actinia tenebrosa (Australian red waratah sea anemone)	Cnidaria	UniProt:P30833
+MP003483	NCCPIDEESCCS	12	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DPL6
+MP003485	NCPAGCRSQGCCM	13	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0CI41
+MP003486	NCPYCVVYCCPPAYCEASGCRPP	23	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P58845
+MP003487	NCPYCVVYCCPPAYCQASGCRPP	23	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DPM3
+MP003495	NERHVTCFYVKFGCKHTECITTIVFCWQTASDISSV	36	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D6C4I4
+MP003496	NEVCPPGECQQYCCDLRKCKCINLSFYGLTCNCDS	35	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI11
+MP003497	NEVCPPGRCEPYCCDPRKCKCLSIDFYGLVCNCDS	35	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI12
+MP003507	NGRCCHPACAKYFSCGR	17	unlabeled	UniProt	Conus monachus (Cone snail)	Mollusca	UniProt:P0C8U5
+MP003508	NGRCCHPACARKYNC	15	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:P0C1W2
+MP003516	NIIDVPCRPCYYRDSSGNCVYDQLGCGA	28	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P86467
+MP003519	NIQIICCKHTPACCT	15	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P86264
+MP003520	NIQIICCKHTPKCCT	15	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DPL7
+MP003521	NIVDVPCRDDYYRDSDGNCVCCKFGGA	27	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P86466
+MP003522	NIVDVPCRDDYYRDSSGNGVYDQLGGCGAA	30	unlabeled	UniProt	Bunodosoma cangicum (Sea anemone)	Cnidaria	UniProt:P86465
+MP003539	NNPPCCSGYVCEGVYCAVDV	20	unlabeled	UniProt	Conus tessulatus (Tessellate cone)	Mollusca	UniProt:Q9BP49
+MP003542	NPASCCSCADVDPGRASRKTPKGEDQVFIKEKDRC	35	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:Q9BPB3
+MP003555	NSEDGSPYPGPGQQPNCCKWPIVTCCNR	28	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D6C4J9
+MP003560	NSFCNLPAVVGRCKGYFPRYFYNTEAGKCQRFIYG	35	unlabeled	UniProt	Actinia equina (Beadlet anemone)	Cnidaria	UniProt:P0DMW8
+MP003567	NVCDGDACPDGVCRSGCTCDFNVAQRKDTCFYPQ	34	unlabeled	UniProt	Polystira albida (White giant-turris) (Pleurotoma albida)	Mollusca	UniProt:P86166
+MP003572	NWSWCSGSGEGCDYHSECCGERCCIESMCIGDGVACWP	38	unlabeled	UniProt	Conus lynceus (Lynceus cone)	Mollusca	UniProt:P0C612
+MP003574	NYLHDTVGRLWGPSRAGLLDGLDWMVGDVQSR	32	unlabeled	UniProt	Hediste japonica (Polychaete worm) (Neanthes japonica)	Annelida	UniProt:P86330
+MP003595	PCCSKLHDNSCCGL	14	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DPK7
+MP003596	PCFCGKTVGIYWFALYSCPGGYGYTGHCGHFMGVCCYPANP	41	unlabeled	UniProt	Bunodosoma granuliferum (Red warty sea anemone)	Cnidaria	UniProt:G0W2H7
+MP003599	PDGRNAAAKAFDLITPTVRKGCCSNPACILNNPNQCG	37	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:A0A068B6Q6
+MP003619	PLFDKRQRCCNGRRGCSSRWCRDHSRCCGRR	31	unlabeled	UniProt	Conus stercusmuscarum (Fly-specked cone)	Mollusca	UniProt:P60207
+MP003632	PQPCEAQYETLIASVLGKLTGLWHNNSVDFMGHTCHFRRRPKVRKFKLY	49	unlabeled	UniProt	Scylla paramamosain (Mud crab)	Malacostraca	UniProt:F8QXE0
+MP003648	PVNEAGVERLFRALVGRGCPADCPNTCDSSNECSPNFPG	39	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D6C4J4
+MP003659	QCCPTMPECCRI	12	unlabeled	UniProt	Conus virgo (Virgin cone)	Mollusca	UniProt:P0C642
+MP003660	QCGQAWC	7	unlabeled	UniProt	Conus imperialis (Imperial cone)	Mollusca	UniProt:P58803
+MP003668	QGCCGEPNLCFTRWCRNNARCCRQQ	25	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:P0C1U0
+MP003669	QGCCNGPKGCSSKWCRDHARCC	22	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:I1SB07
+MP003670	QGCCNVPNGCSGRWCRDHAQCC	22	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:P0C1U2
+MP003671	QGDRDQPADRNAVPRDVNPGRARRKLMKVLRESECPWKPWCG	42	unlabeled	UniProt	Conus monile (Necklace cone)	Mollusca	UniProt:A0A1P8NVU1
+MP003684	QKCCSGGSCPLYFRDRLICPCC	22	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:P0DQM8
+MP003685	QKCCTGKKGSCSGRACKNLRCCA	23	unlabeled	UniProt	Conus striolatus (Cone snail)	Mollusca	UniProt:P0C8V3
+MP003686	QKELVPSKTTTCCGYSPGTMCPSCMCTNTCPPQK	34	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:P0C830
+MP003702	QNCCNGGCSSKWCKGHARCC	20	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:P0CE77
+MP003703	QNECPWKPWC	10	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:P0DPQ0
+MP003705	QPADRPALRTHGIATEQHPFFDPVKRCCSQDCRICIPCCPW	41	unlabeled	UniProt	Conus ermineus (Agate cone) (Chelyconus ermineus)	Mollusca	UniProt:A0A346CJ94
+MP003708	QPLVVSFPSDSASDGRDDEAKDERSDIYESKRNGRCCHPACGKYYSCGR	49	unlabeled	UniProt	Conus consors (Singed cone)	Mollusca	UniProt:S6CQT8
+MP003719	QRSEDIKLAKRCLASGTLCFAGYGHSSCCSGACLDYGGLGVGVCS	45	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:A0A142C1T1
+MP003732	QSPGCCWNPACVKNRC	16	unlabeled	UniProt	Conus purpurascens (Purple cone)	Mollusca	UniProt:P0C351
+MP003735	QTCCGSKVFCC	11	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P0DPL5
+MP003736	QTCCGYRMCVPC	12	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P86257
+MP003737	QVMVQGDGDQPAARNAVPKDDNPGGEAGKFMNVLRRSGCPWEPWCG	46	unlabeled	UniProt	Conus caracteristicus (Characteristic cone)	Mollusca	UniProt:P0DP16
+MP003743	QWPFQQWAPCTGHWDCPGDRCCFAGYCLETTPSCD	35	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D6C4K6
+MP003752	RCAHGTYYSNDSQQCLLNCCWWGGGDHCCR	30	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:P58625
+MP003753	RCCGYKFCHIC	11	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:C0HKY2
+MP003754	RCCGYKFCYIC	11	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:C0HKY3
+MP003755	RCCGYKMCHPC	11	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:P0CI23
+MP003756	RCCPMPGCFAGPFCPCC	17	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P85020
+MP003757	RCCPMPGCFAGPFCPCCPV	19	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P0DQO8
+MP003758	RCCTGKKGSCSGRACKNLKCCA	22	unlabeled	UniProt	Conus striolatus (Cone snail)	Mollusca	UniProt:P0C8V2
+MP003761	RCKTCSKGRCRPKPNCG	17	unlabeled	UniProt	Actinia bermudensis (Maroon anemone)	Cnidaria	UniProt:C0HJD9;UniProt:P0DM22
+MP003762	RCLFWSVCP	9	unlabeled	UniProt	Conus pictus (Cone snail)	Mollusca	UniProt:P0DM98
+MP003764	RCPWDPWCN	9	unlabeled	UniProt	Conus inscriptus (Engraved cone)	Mollusca	UniProt:P0DUQ9
+MP003766	RDCCTPPKKCKDRRCKPLKCCA	22	unlabeled	UniProt	Conus geographus (Geography cone) (Nubecula geographus)	Mollusca	UniProt:P05482
+MP003767	RDCCTPPRKCKDRRCKPMKCCA	22	unlabeled	UniProt	Conus geographus (Geography cone) (Nubecula geographus)	Mollusca	UniProt:P01524
+MP003768	RDCGKMCEEETWKG	14	unlabeled	UniProt	Conus caracteristicus (Characteristic cone)	Mollusca	UniProt:P0DQN0
+MP003769	RDCQEKWEYCIVPILGFVYCCPGLICGPFVCV	32	unlabeled	UniProt	Conus magnificus (Magnificent cone) (Darioconus magnificus)	Mollusca	UniProt:P0DM15
+MP003770	RDFTHTIIDNSDLFSESRNTRLG	23	unlabeled	UniProt	Phyllodiscus semoni (Night anemone)	Cnidaria	UniProt:P84851
+MP003787	RGCCNGRGGCSSRWCRDHARCC	22	unlabeled	UniProt	Conus striolatus (Cone snail)	Mollusca	UniProt:A0A7M4DUE8
+MP003800	RGVCSTPEGSCVHNGCICQNAPCCHESGCNWANVCPGFLWDKN	43	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A9UH01
+MP003801	RGVCSTPEGSCVHNGCICQNAPCCHPSGCNWANVCPGYLWDKN	43	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:A7LI91
+MP003806	RHGCCKGPKGCSSRECRPQHCC	22	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:P0C349;UniProt:P0C350
+MP003815	RIKKPIFAFPRF	12	unlabeled	UniProt	Conus cancellatus (Cancellate cone) (Conus austini)	Mollusca	UniProt:P0DQH7
+MP003821	RIRKPIFAFPRF	12	unlabeled	UniProt	Conus cancellatus (Cancellate cone) (Conus austini)	Mollusca	UniProt:P0DQH8
+MP003864	RPKCCCVCGVVGRKCCSTWDKCHPVHLPCPSS	32	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DJB5
+MP003928	RRSLTRRVPEECEESCEEEEKTCCGLENGQPFCSRICWG	39	unlabeled	UniProt	Conus arenatus (Sand-dusted cone)	Mollusca	UniProt:Q9BP50
+MP003943	RSCCPCYWGGCPWGQNCYPEGCSGPKV	27	unlabeled	UniProt	Anemonia sulcata (Mediterranean snakelocks sea anemone)	Cnidaria	UniProt:P01535
+MP003944	RSCIDTIPKSRCTAFQCKHSMKYRLSFCRKTCGTC	35	unlabeled	UniProt	Stichodactyla helianthus (Sun anemone) (Stoichactis helianthus)	Cnidaria	UniProt:P29187
+MP003979	RWDVDQCIYYCLNGVVGYSYTECQTMCT	28	unlabeled	UniProt	Conus cancellatus (Cancellate cone) (Conus austini)	Mollusca	UniProt:P0C6S3
+MP004004	RYGRSYAMSHMPMSRMGRKMYQNYMYRRMQATKMMQYH	38	unlabeled	UniProt	Cryptogemma periscelida (Atlantic gem-turris) (Gemmula periscelida)	Mollusca	UniProt:P0C1X3
+MP004009	SAALAGTIIAGASLGFQILDKVLGELGKVSRKIAVGVDNE	40	unlabeled	UniProt	Stichodactyla mertensii (Merten's carpet sea anemone)	Cnidaria	UniProt:P0DMX4
+MP004010	SAALAGTIIDGASLGFDILNKV	22	unlabeled	UniProt	Heteractis magnifica (Magnificent sea anemone) (Radianthus magnifica)	Cnidaria	UniProt:P58690
+MP004011	SAEVAGAVIEGAKLTFNVLQ	20	unlabeled	UniProt	Actinia fragacea (Strawberry anemone)	Cnidaria	UniProt:P0DUW8
+MP004024	SCCARNPACRHNHPCV	16	unlabeled	UniProt	Conus australis (Austral cone) (Asprella australis)	Mollusca	UniProt:P0DL39
+MP004025	SCCNAGFCRFGCTPCCY	17	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P86262
+MP004026	SCGYPCSHCGIPGCYPG	17	unlabeled	UniProt	Conus asiaticus (Cone snail)	Mollusca	UniProt:P0DOZ9
+MP004027	SCLSSGALCGIDSNCCNGCNVPRNQCY	27	unlabeled	UniProt	Conasprella longurionis (Cone snail) (Conus longurionis)	Mollusca	UniProt:P0DOZ1
+MP004028	SCNNSCQQHSQCASHCVCLLNKCRTVN	27	unlabeled	UniProt	Conus amadis (Amadis cone)	Mollusca	UniProt:P83390
+MP004029	SCSCKRNFLCC	11	unlabeled	UniProt	Conus pictus (Cone snail)	Mollusca	UniProt:P86942
+MP004031	SCSGRDSRCPPVCCMGLMCSRGKCVSIYGE	30	unlabeled	UniProt	Conus tulipa (Fish-hunting cone snail) (Tulip cone)	Mollusca	UniProt:P58923
+MP004032	SCSSGCSDCNSDSCQCTLNQFTNSDSCCC	29	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI09
+MP004038	SDDNDVAAEMMSGLIALAIDSCCSDSDCNANHPDMCS	37	unlabeled	UniProt	Conus leopardus (Leopard cone) (Cucullus leopardus)	Mollusca	UniProt:A1X8D6
+MP004040	SDGRDAAANDKATDLIALTARRDPCCSNPVCTVHNPQICG	40	unlabeled	UniProt	Conus purpurascens (Purple cone)	Mollusca	UniProt:P69658
+MP004041	SDGRDAAVIYTESDVIARGDCKPCMHPDCRFNPGRCRPRE	40	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:A0A068B409
+MP004042	SDGRDDEAKDERSDMHESDRKGRAYCCHPACGKNFDCGR	39	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:D4HPG6
+MP004043	SDGRDDEAKDERSDMHESDRNGRGCCCNPACGPKYSCGR	39	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:D4HPG8
+MP004044	SDGRDDEAKDERSDMHESDRNGRGCCCNPACGPNYGCGTSCSRPSEPRR	49	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:D4HPH0
+MP004045	SDGRDDEAKDKRSDMYGSDRSGRCCHPACGRKYNCGR	37	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:D4HPG9
+MP004046	SDGRNAAADDKASDLIGLAVRGCCSNPACSVNHPELCGRRR	41	unlabeled	UniProt	Conus quercinus (Oak cone)	Mollusca	UniProt:A1X8D0
+MP004047	SDGRNAGADRKGFGLISQMFKLSCCADPACKHTPGC	36	unlabeled	UniProt	Conus pulicarius (Flea-bitten cone)	Mollusca	UniProt:A1X8D9
+MP004048	SDGRNDAAKAFDLISSTVKKGCCSHPACAGNNQHICGRRR	40	unlabeled	UniProt	Conus geographus (Geography cone) (Nubecula geographus)	Mollusca	UniProt:Q86RB2
+MP004049	SDGRNDAAKASGLVSLTDRRPECCSDPRCNSSHPELCG	38	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:Q3YEH8
+MP004050	SDGRNDAANDKASKLMVLRNECCDNPPCKSSNPDLCDWRS	40	unlabeled	UniProt	Conus lividus (Livid cone)	Mollusca	UniProt:Q3YEI0
+MP004051	SDGRNEAANDEASDVIELALKGCCSNPVCHLEHPNACGRRR	41	unlabeled	UniProt	Conus catus (Cat cone)	Mollusca	UniProt:P0DPT2
+MP004052	SDGRNTAANDKASDLMALRDGCCPNPSCSVNNPDICGGGR	40	unlabeled	UniProt	Conus quercinus (Oak cone)	Mollusca	UniProt:P0CAQ9
+MP004053	SDGRNTAANDKASDLMALRDGCCSNPSCSVNNPDICGGGR	40	unlabeled	UniProt	Conus quercinus (Oak cone)	Mollusca	UniProt:P0CAQ8
+MP004054	SDGRNTAANDKASNLMALRDDCCPNPPCKASNPDLCDWRS	40	unlabeled	UniProt	Conus quercinus (Oak cone)	Mollusca	UniProt:A1X8C6
+MP004055	SDGRNVAAKAFHRIGRTIRDECCSNPACRVNNPHVCRRR	39	unlabeled	UniProt	Conus arenatus (Sand-dusted cone)	Mollusca	UniProt:P0C8R2
+MP004058	SDRASDGRNAAANDRASDLVALTVRGCCTYPPCAVLSPLCD	41	unlabeled	UniProt	Conus bullatus (Bubble cone)	Mollusca	UniProt:P0CY77
+MP004066	SESILIVHQQQSRSSGS	17	unlabeled	UniProt	Cenchritis muricatus (Beaded periwinkle)	Mollusca	UniProt:B3EWI8
+MP004083	SGCCKHPACGKNRC	14	unlabeled	UniProt	Conus purpurascens (Purple cone)	Mollusca	UniProt:C0HLM2
+MP004084	SGCCSNPACRVNNPNIC	17	unlabeled	UniProt	Conus limpusi (Cone snail)	Mollusca	UniProt:P0DL68
+MP004126	SKCFSPGTFCGIKPGLCCSVRCFSLFCISFE	31	unlabeled	UniProt	Conus nigropunctatus (Black-spot cone)	Mollusca	UniProt:P56710
+MP004130	SKQCCHLAACRFGCTPCCW	19	unlabeled	UniProt	Conus marmoreus (Marble cone)	Mollusca	UniProt:P0C1N0
+MP004135	SLALAGTIIEGASLTFSVLTTILDALGSVSRKIDVGVYNE	40	unlabeled	UniProt	Entacmaea quadricolor (Bubble-tip anemone) (Parasicyonis actinostoloides)	Cnidaria	UniProt:P0DMX3
+MP004136	SLCDKPHHNCIDGQTCYHTCCQNGLKCVRYP	31	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DJB4
+MP004162	SLVCDLECSAEVTTCCETGTCHGITTYNCVGGTEPET	37	unlabeled	UniProt	Iotyrris olangoensis (Sea snail) (Lophiotoma olangoensis)	Mollusca	UniProt:P0DKM4
+MP004184	SNGRNAAAGDKPSYWITLAITDCCANPVCNGKHCQGRR	38	unlabeled	UniProt	Conus lividus (Livid cone)	Mollusca	UniProt:P0DX20
+MP004186	SNKRKNAAMLDMIAQHAIRGCCSDPRCRYRCR	32	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:P0C1D0
+MP004192	SPANSVWS	8	unlabeled	UniProt	Conus mus (Mouse cone)	Mollusca	UniProt:P84701
+MP004194	SPCPFPC	7	unlabeled	UniProt	Conus zonatus (Zoned cone)	Mollusca	UniProt:P0DUC4
+MP004206	SQCCYQICSPC	11	unlabeled	UniProt	Conus amadis (Amadis cone)	Mollusca	UniProt:P0DUU4
+MP004214	SSLHCGDDPWCPTGCCENEDCDIGCKRDWEKSRSQP	36	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI19
+MP004227	STRCQGRGASCRKTMYNCCSGSCNRGRCG	29	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:Q26350
+MP004229	SVAVAGAIIKGAALTFNVLQ	20	unlabeled	UniProt	Actinia equina (Beadlet anemone)	Cnidaria	UniProt:P0C1H2
+MP004230	SVAVAGAVIEGASLTFNVLQ	20	unlabeled	UniProt	Actinia equina (Beadlet anemone)	Cnidaria	UniProt:P0C1H0
+MP004231	SVAVAGAVIEGATLTFNVLQ	20	unlabeled	UniProt	Actinia equina (Beadlet anemone)	Cnidaria	UniProt:P0C1H1
+MP004232	SVAVAGAVIKGAALTFNILQ	20	unlabeled	UniProt	Actinia fragacea (Strawberry anemone)	Cnidaria	UniProt:P0DUW9
+MP004267	TCKQKGEGCSLDVECCSSSCKPGGPLFDFDC	31	unlabeled	UniProt	Conus cancellatus (Cancellate cone) (Conus austini)	Mollusca	UniProt:P0C1C8
+MP004268	TCLARDELCGASFLSNFLCCDGLCLLICV	29	unlabeled	UniProt	Conus parius (Parian snail)	Mollusca	UniProt:P0CH17
+MP004269	TCLEIGEFCGKPMMVGSLCCSPGWCFFICVG	31	unlabeled	UniProt	Conus pictus (Cone snail)	Mollusca	UniProt:P0DMA2
+MP004270	TCSNKGQQCGDDSDCCWHLCCVNNKCAHLILLCNL	35	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:P0C613
+MP004276	TFEPNAEECIVDGRCKHRSDWPCEMSSGTTGRCDVSLGACGCSN	44	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:P0DJB6
+MP004285	TGTRPFSPSVTGCSSCHLINFNDAVACCWRLGRCCSAVKG	40	unlabeled	UniProt	Penaeus indicus (Indian white prawn) (Fenneropenaeus indicus)	Malacostraca	UniProt:A0AAU8HXC4
+MP004288	THSGGACNSHDQCCNAFCSTATRTCV	26	unlabeled	UniProt	Conus ebraeus (Hebrew cone)	Mollusca	UniProt:C7T1P2
+MP004289	TIIGAPCRKCEHLDRSGNCVRDWSCGQEV	29	unlabeled	UniProt	Homostichanthus duerdeni (Sea anemone) (Stichodactyla duerdeni)	Cnidaria	UniProt:C0HJB4
+MP004316	TRCKGKGAPCRKTMYDCCSGSCGRRGKCG	29	unlabeled	UniProt	Conus magus (Magical cone)	Mollusca	UniProt:P37300
+MP004319	TRICCGCYWNGSKDVCSQSCC	21	unlabeled	UniProt	Neoterebra variegata (Variegate auger snail) (Terebra variegata)	Mollusca	UniProt:A0A0B4J184
+MP004324	TRSGGACNSHDQCCINFCRKATSTCM	26	unlabeled	UniProt	Conus ebraeus (Hebrew cone)	Mollusca	UniProt:C7T1P1
+MP004325	TRSGGACNSHNQCCDDFCSTATSTCI	26	unlabeled	UniProt	Conus ebraeus (Hebrew cone)	Mollusca	UniProt:C7T1P3
+MP004326	TRSGGACNSHNQCCDDFCSTATSTCV	26	unlabeled	UniProt	Conus ebraeus (Hebrew cone)	Mollusca	UniProt:C7T1P4
+MP004331	TSCNAATGRSPGCFCNNDNNCRDTCCPRSDTEKKCTGGPDPCPPRQWPD	49	unlabeled	UniProt	Iotyrris olangoensis (Sea snail) (Lophiotoma olangoensis)	Mollusca	UniProt:P0DKN4
+MP004346	TVKRSSKRGWWGPPSNCWVCTGFNKCCEHESHCMTFPTQYNRECK	45	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D6C4K4
+MP004349	TVSDPPARPAVFHSREELMNYVRELNLYFAIVGRPRY	37	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:P0CJ23
+MP004350	TVSDPPARPAVFHSREELMNYVRELNRYFAIVGRPRF	37	unlabeled	UniProt	Conus betulinus (Beech cone)	Mollusca	UniProt:P0CJ22
+MP004356	TWEECCKNPGCRNNHVDRCRGQV	23	unlabeled	UniProt	Conus regius (Crown cone)	Mollusca	UniProt:C0HJA8
+MP004359	VACRCESDGPDVRSATFTGTVDLWNCNTGWHKCIATYTAVASCCKKD	47	unlabeled	UniProt	Isohalcurias carlgreni (Sea anemone) (Halcurias carlgreni)	Cnidaria	UniProt:P0C5G6
+MP004379	VCCGYKLCHPC	11	unlabeled	UniProt	Conus marmoreus (Marble cone)	Mollusca	UniProt:P58807
+MP004380	VCCPFGRCHQICQCCER	17	unlabeled	UniProt	Conus araneosus (Cobweb cone)	Mollusca	UniProt:C0HKY7
+MP004382	VCRDWFKETACRHAKSLGNCRTSQKYRANCAKTCELC	37	unlabeled	UniProt	Bunodosoma granuliferum (Red warty sea anemone)	Cnidaria	UniProt:P29186
+MP004393	VESHCHPIGCRMDVGSLSCGPFQIKKGYWT	30	unlabeled	UniProt	Bathymodiolus azoricus (Mussel)	Mollusca	UniProt:D0QS81;UniProt:D0QSI1
+MP004394	VESHCLPIGCRMDVGSLSCGPFQIKKGCWT	30	unlabeled	UniProt	Bathymodiolus thermophilus (Mussel)	Mollusca	UniProt:V9VGD8
+MP004395	VESHCLPIGCRMDVGSLSCGPFQIKKGYWT	30	unlabeled	UniProt	Bathymodiolus thermophilus (Mussel)	Mollusca	UniProt:D0QS75;UniProt:D0QS79;UniProt:D0QSJ1
+MP004396	VESHCLPIGCRMDVGSLSCGPFQTKKGYWT	30	unlabeled	UniProt	Bathymodiolus thermophilus (Mussel)	Mollusca	UniProt:V9VFP5
+MP004397	VESHCLPIGCRMDVGSLSCGPLQIKKGYWT	30	unlabeled	UniProt	Bathymodiolus thermophilus (Mussel)	Mollusca	UniProt:V9VFN6
+MP004398	VESHCLPIGCRMDVGSLSCGPSQIKKGYWT	30	unlabeled	UniProt	Bathymodiolus thermophilus (Mussel)	Mollusca	UniProt:V9VE02
+MP004399	VESHCQPIGCRMDVGSLSCGPFQIKKGYWT	30	unlabeled	UniProt	Bathymodiolus thermophilus (Mussel)	Mollusca	UniProt:V9VIS8
+MP004400	VESHCQSIGCRMDVGSLSCGPFQIKKGYWT	30	unlabeled	UniProt	Bathymodiolus thermophilus (Mussel)	Mollusca	UniProt:D0QS77
+MP004401	VESRCLPIGCRMDVGSLSCGPFQIKKGYWT	30	unlabeled	UniProt	Bathymodiolus thermophilus (Mussel)	Mollusca	UniProt:V9VFP2
+MP004426	VGVCCGYKLCHPC	13	unlabeled	UniProt	Conus marmoreus (Marble cone)	Mollusca	UniProt:P58810
+MP004451	VKRCCDEEECSSACWPCCWG	20	unlabeled	UniProt	Conus pennaceus (Feathered cone) (Conus episcopus)	Mollusca	UniProt:Q9BP45
+MP004470	VLFTPPELLGCGNRCSDDCCKWGRCQPGCTD	31	unlabeled	UniProt	Hastula hectica (Sea snail) (Impages hectica)	Mollusca	UniProt:P0CI18
+MP004476	VLSHNNESSYSDTSSCTSQ	19	unlabeled	UniProt	Cenchritis muricatus (Beaded periwinkle)	Mollusca	UniProt:B3EWI5
+MP004554	VTVVQYRSTNASSGYLNLRVYLLDTGLR	28	unlabeled	UniProt	Hediste japonica (Polychaete worm) (Neanthes japonica)	Annelida	UniProt:P86834
+MP004557	VVGCPWQPWC	10	unlabeled	UniProt	Conus zeylanicus (Obese cone) (Puncticulis zeylanicus)	Mollusca	UniProt:P0DP18;UniProt:P0DP19;UniProt:P0DP20
+MP004559	VVLGPASDGRNAAANDKAFDLALAVKDCCSEPPCILQNPDICGRRR	46	unlabeled	UniProt	Conus lividus (Livid cone)	Mollusca	UniProt:P0DY99
+MP004560	VVLGPASDGRNAAANNKASDLIRQICCGYGDCGFVPNVCV	40	unlabeled	UniProt	Conus leopardus (Leopard cone) (Cucullus leopardus)	Mollusca	UniProt:P0CAQ7
+MP004561	VVLGPASDGRNAAANVKAPDLIALTVRNDCCHNAPCRNNHPGICG	45	unlabeled	UniProt	Conus leopardus (Leopard cone) (Cucullus leopardus)	Mollusca	UniProt:A6M938
+MP004579	WATIDECEETCNVTFKTCCGPPGDWQCVEACPV	33	unlabeled	UniProt	Conus radiatus (Rayed cone)	Mollusca	UniProt:P58804
+MP004580	WCKQSGEMCNVLDQNCCDGYCIVFVCT	27	unlabeled	UniProt	Conus textile (Cloth-of-gold cone)	Mollusca	UniProt:P24159
+MP004582	WDVNDCIHFCLIGVVERSYTECHTMCT	27	unlabeled	UniProt	Conus anabathrum floridanus (Florida cone) (Conus floridanus floridensis)	Mollusca	UniProt:P84705
+MP004583	WDVNDCIHFCLIGVVGRSYTECHTMCT	27	unlabeled	UniProt	Conus anabathrum floridanus (Florida cone) (Conus floridanus floridensis)	Mollusca	UniProt:P84706
+MP004587	WFRSFKSYYGHHGSVYRPNEPNFRSFAS	28	unlabeled	UniProt	Polystira nobilis (Sea snail) (Pleurotoma nobilis)	Mollusca	UniProt:P0DQY2
+MP004640	YCCHPACGKNFDC	13	unlabeled	UniProt	Conus striatus (Striated cone)	Mollusca	UniProt:P28878
+MP004641	YCCHPACGPNFSC	13	unlabeled	UniProt	Conus obscurus (Obscure cone) (Conus halitropus)	Mollusca	UniProt:P0DQY0
+MP004649	YGNFPTCSETGEDCSAMHCCRSMTCRNNICAD	32	unlabeled	UniProt	Conus parius (Parian snail)	Mollusca	UniProt:P0CH20
+MP004678	YRRRQCPPWCSGEPCRKGTC	20	unlabeled	UniProt	Californiconus californicus (California cone) (Conus californicus)	Mollusca	UniProt:D6C4J2
+MP004700	YYICESCWTCESCAGSTESSCVSACNACDLCPNK	34	unlabeled	UniProt	Iotyrris olangoensis (Sea snail) (Lophiotoma olangoensis)	Mollusca	UniProt:P0DKN5
