@@ -6,9 +6,18 @@
 use Mojolicious::Lite -signatures;
 use DBI;
 use FindBin qw($Bin);
+use lib $Bin;
+use Charts;
 
 my $dbfile = $ENV{MARINE_DB} // "$Bin/../data/final/marine.db";
 die "Database not found: $dbfile (run build_db.pl first)\n" unless -e $dbfile;
+
+# reference statistics of the training set, used by the composition and property charts
+my $REF = Charts::load_reference($ENV{MARINE_TRAIN} // "$Bin/../data/final/training_balanced_props.tsv");
+
+helper marine_probs => sub ($c) {
+    return $c->db->selectcol_arrayref('SELECT acp_probability FROM peptides');
+};
 
 helper db => sub {
     state $dbh = DBI->connect("dbi:SQLite:dbname=$dbfile", '', '',
@@ -27,7 +36,8 @@ get '/' => sub ($c) {
     my $top = $db->selectall_arrayref(
         q{SELECT pep_id, sequence, organism, taxon_group, acp_probability
           FROM peptides ORDER BY acp_probability DESC LIMIT 10}, { Slice => {} });
-    $c->render(template => 'home', total => $total, acp => $acp, groups => $groups, top => $top);
+    $c->render(template => 'home', total => $total, acp => $acp, groups => $groups, top => $top,
+        hist_svg => Charts::hist_chart($c->marine_probs, []));
 };
 
 # ---- browse / search -------------------------------------------------------
@@ -72,7 +82,10 @@ get '/peptides' => sub ($c) {
 get '/peptide/:id' => sub ($c) {
     my $row = $c->db->selectrow_hashref('SELECT * FROM peptides WHERE pep_id = ?', undef, $c->stash('id'));
     return $c->reply->not_found unless $row;
-    $c->render(template => 'peptide', p => $row);
+    $c->render(template => 'peptide', p => $row,
+        aac_svg  => Charts::aac_chart($row->{sequence}, $REF),
+        prop_svg => Charts::prop_strips($row, $REF),
+        hist_svg => Charts::hist_chart($c->marine_probs, [ [ $row->{pep_id}, $row->{acp_probability} ] ]));
 };
 
 # ---- JSON API --------------------------------------------------------------
@@ -162,13 +175,16 @@ sub run_predict {              # returns (\@results, $error)
 }
 
 get '/predict' => sub ($c) {
-    $c->render(template => 'predict', results => undef, error => undef, input => '');
+    $c->render(template => 'predict', results => undef, error => undef, input => '',
+        prob_svg => '', hist_svg => '');
 };
 
 post '/predict' => sub ($c) {
     my $input = $c->param('seqs') // '';
     my ($res, $err) = run_predict($input);
-    $c->render(template => 'predict', results => $res, error => $err, input => $input);
+    my ($prob_svg, $hist_svg) = Charts::predict_charts($res, $c->marine_probs, $REF);
+    $c->render(template => 'predict', results => $res, error => $err, input => $input,
+        prob_svg => $prob_svg, hist_svg => $hist_svg);
 };
 
 app->start;
@@ -200,6 +216,9 @@ __DATA__
   .card { border: 1px solid #d9e2ec; border-radius: 6px; padding: 12px 18px; }
   .card b { font-size: 22px; display: block; }
   .pg a { margin-right: 10px; }
+  .chart { display: block; margin: 8px 0 20px; }
+  details { margin: 14px 0; border-top: 1px solid #e4e7eb; padding-top: 8px; }
+  summary { cursor: pointer; }
 </style></head>
 <body>
 <header><b>Marine Peptide Server</b>
@@ -217,6 +236,9 @@ and an Extra Trees anticancer score.</p>
   <div class="card"><b><%= $acp %></b>predicted anticancer (p &ge; 0.5)</div>
   <div class="card"><b><%= scalar @$groups %></b>taxonomic groups</div>
 </div>
+<h3>Score distribution of all marine peptides</h3>
+<p class="muted">Each bar counts marine peptides in a probability range. Green bars are predicted anticancer (p &ge; 0.5).</p>
+<%== $hist_svg %>
 <h3>By taxonomic group</h3>
 <table><tr><th>Group</th><th>Peptides</th><th>Predicted ACP</th><th>Mean probability</th></tr>
 % for my $g (@$groups) {
@@ -292,6 +314,13 @@ saw it in training, so it is not a blind prediction.</p>
 <tr><th><%= $k %></th><td><%= $p->{$k} %></td></tr>
 % }
 </table>
+<h3>Charts</h3>
+<h4>Score compared with all marine peptides</h4>
+<%== $hist_svg %>
+<h4>Amino acid composition</h4>
+<%== $aac_svg %>
+<h4>Key properties compared with training peptides</h4>
+<%== $prop_svg %>
 <p><a href="/api/peptide/<%= $p->{pep_id} %>">JSON</a></p>
 
 @@ predict.html.ep
@@ -315,6 +344,22 @@ Properties are calculated with BioPerl and scored with the Extra Trees model.</p
 <td class="<%= $r->{call} eq 'ACP' ? 'acp' : '' %>"><%= $r->{call} %></td></tr>
 %   }
 </table>
+<h3>Charts</h3>
+<h4>Anticancer probability of each peptide</h4>
+<%== $prob_svg %>
+<h4>Where your peptides fall among the marine peptides</h4>
+<p class="muted">Histogram of the scores of all 593 database peptides; blue lines mark your peptides.</p>
+<%== $hist_svg %>
+% my $shown = 0;
+% for my $r (@$results) {
+%   next unless $r->{aac_svg};
+<details<%= $shown++ ? '' : ' open' %>><summary><b><%= $r->{name} %></b> - composition and property profile</summary>
+<h4>Amino acid composition</h4>
+<%== $r->{aac_svg} %>
+<h4>Key properties compared with training peptides</h4>
+<%== $r->{prop_svg} %>
+</details>
+% }
 <p class="muted">The probability is a model score from sequence composition, not a measured activity.
 Validation AUC is about 0.76, so use it to prioritise peptides for lab testing.</p>
 % }
